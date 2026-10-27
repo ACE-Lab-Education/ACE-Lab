@@ -1,0 +1,27 @@
+name: Sync files from ace-lab.co.uk
+on:
+  workflow_dispatch:
+  push:
+    paths: ['.github/file-manifest.tsv']
+permissions:
+  contents: write
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download files listed in the manifest
+        run: |
+          grep -v '^#' .github/file-manifest.tsv | while IFS=$'\t' read -r path url; do
+            [ -z "$path" ] && continue
+            mkdir -p "$(dirname "$path")"
+            curl -fsSL --retry 3 -o "$path" "$url" && echo "OK  $path" || echo "FAIL $path"
+          done
+      - name: Commit any new or changed files
+        run: |
+          git config user.name "ACE-Lab bot"
+          git config user.email "actions@github.com"
+          if [ -f ACE-CORE.md ]; then git rm -q ACE-CORE.md; fi
+          git add -A
+          git diff --cached --quiet || git commit -m "Sync exercise sheets and learning guides from ace-lab.co.uk"
+          git push

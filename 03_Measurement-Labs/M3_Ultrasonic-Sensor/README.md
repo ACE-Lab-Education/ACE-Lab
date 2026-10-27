@@ -10,12 +10,12 @@ Measure distance using an ultrasonic sensor and interpret the resulting signal i
 
 | | |
 |---|---|
-| 📄 Exercise sheet (PDF) | [Open](https://uploads.strikinglycdn.com/files/bafbd2d5-916c-49fd-97af-9b6a0516b5b8/Ultrasonic_Sensor.pdf) |
+| 📄 Exercise sheet (PDF) | [M3_Ultrasonic_Sensor.pdf](M3_Ultrasonic_Sensor.pdf) |
 | 🌐 Website | [ace-lab.co.uk/practical-exercises](https://www.ace-lab.co.uk/practical-exercises) |
 
 ## Theory behind this lab (ACE-CORE)
 
-- [O02 Microcontroller-Based Measurement](https://www.ace-lab.co.uk/ace-core)
+- [O02 Microcontroller-Based Measurement for Control Systems](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/O02_Microcontroller_Based_Measurement.pdf) ([DOI](https://doi.org/10.5281/zenodo.23337635))
 
 ## Files
 

@@ -10,7 +10,7 @@ Learn Simulink basics for model-based workflows, including blocks, signals, scop
 
 | | |
 |---|---|
-| 📄 Free course (MathWorks) | [Open](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink) |
+| 🎓 Free course (MathWorks) | [Open](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink) |
 | 🌐 Website | [ace-lab.co.uk/practical-exercises](https://www.ace-lab.co.uk/practical-exercises) |
 
 [← All exercises](../../README.md)

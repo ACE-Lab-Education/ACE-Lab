@@ -10,13 +10,13 @@ Estimate the gain, time constant and dead-band of the motor while it runs, using
 
 | | |
 |---|---|
-| 📄 Exercise sheet (PDF) | [Open](https://uploads.strikinglycdn.com/files/c94eee4b-ae85-425f-8cd2-98ffc6007c15/Online_Parameter_Estimation_of_a_DC_Motor_using_RLS.pdf) |
+| 📄 Exercise sheet (PDF) | [A1.5_Online_Parameter_Estimation_of_a_DC_Motor_using_RLS.pdf](A1.5_Online_Parameter_Estimation_of_a_DC_Motor_using_RLS.pdf) |
 | 🔖 DOI | [10.5281/zenodo.23671549](https://doi.org/10.5281/zenodo.23671549) |
 | 🌐 Website | [ace-lab.co.uk/practical-exercises](https://www.ace-lab.co.uk/practical-exercises) |
 
 ## Theory behind this lab (ACE-CORE)
 
-- [E14 Recursive Least Squares for Online Parameter Estimation](https://doi.org/10.5281/zenodo.23671518)
+- [E14 Recursive Least Squares for Online Parameter Estimation](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/E14_Recursive_Least_Squares_for_Online_Parameter_Estimation.pdf) ([DOI](https://doi.org/10.5281/zenodo.23671518))
 
 ## Files
 

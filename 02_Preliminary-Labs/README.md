@@ -5,10 +5,10 @@
 
 | Code | Exercise | Time | Sheet | DOI |
 |---|---|---|---|---|
-| **P1** | [LED (Digital)](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/02_Preliminary-Labs/P1_LED-Digital) | 0.5 hour | [PDF](https://uploads.strikinglycdn.com/files/5d0314d2-395b-4e8c-8f32-a1905d6da0c0/LED_Digital_Exercise.pdf) | — |
-| **P2** | [LED (PWM)](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/02_Preliminary-Labs/P2_LED-PWM) | 0.5 hour | [PDF](https://uploads.strikinglycdn.com/files/5d0314d2-395b-4e8c-8f32-a1905d6da0c0/LED_PWM_Exercise.pdf) | — |
-| **P3** | [On/Off Power Switch](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/02_Preliminary-Labs/P3_On-Off-Power-Switch) | 0.5 hour | [PDF](https://uploads.strikinglycdn.com/files/bafbd2d5-916c-49fd-97af-9b6a0516b5b8/On_Off_Power_Switch.pdf) | — |
-| **P4** | [Tactile Button Switch](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/02_Preliminary-Labs/P4_Tactile-Button-Switch) | 0.5 hour | [PDF](https://uploads.strikinglycdn.com/files/bafbd2d5-916c-49fd-97af-9b6a0516b5b8/Tactile_Button_Switch.pdf) | — |
+| **P1** | [LED (Digital)](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/02_Preliminary-Labs/P1_LED-Digital) | 0.5 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/02_Preliminary-Labs/P1_LED-Digital/P1_LED_Digital_Exercise.pdf) | — |
+| **P2** | [LED (PWM)](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/02_Preliminary-Labs/P2_LED-PWM) | 0.5 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/02_Preliminary-Labs/P2_LED-PWM/P2_LED_PWM_Exercise.pdf) | — |
+| **P3** | [On/Off Power Switch](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/02_Preliminary-Labs/P3_On-Off-Power-Switch) | 0.5 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/02_Preliminary-Labs/P3_On-Off-Power-Switch/P3_On_Off_Power_Switch.pdf) | — |
+| **P4** | [Tactile Button Switch](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/02_Preliminary-Labs/P4_Tactile-Button-Switch) | 0.5 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/02_Preliminary-Labs/P4_Tactile-Button-Switch/P4_Tactile_Button_Switch.pdf) | — |
 
 [← All exercises](../README.md)
 

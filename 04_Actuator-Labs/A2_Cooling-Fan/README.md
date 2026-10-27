@@ -14,7 +14,7 @@ Drive a DC motor cooling fan with PWM and explore airflow actuation for thermal-
 
 ## Theory behind this lab (ACE-CORE)
 
-- [O03 DC Motor Actuators](https://www.ace-lab.co.uk/ace-core)
+- [O03 DC Motor Actuators](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/O03_DC_Motor_Actuators.pdf)
 
 ## Files
 

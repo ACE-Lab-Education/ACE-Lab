@@ -10,12 +10,12 @@ Control DC motor direction safely by switching polarity using the ACE-Lab actuat
 
 | | |
 |---|---|
-| 📄 Exercise sheet (PDF) | [Open](https://uploads.strikinglycdn.com/files/bafbd2d5-916c-49fd-97af-9b6a0516b5b8/DC_motor_polarity_control.pdf) |
+| 📄 Exercise sheet (PDF) | [A1.1_DC_motor_polarity_control.pdf](A1.1_DC_motor_polarity_control.pdf) |
 | 🌐 Website | [ace-lab.co.uk/practical-exercises](https://www.ace-lab.co.uk/practical-exercises) |
 
 ## Theory behind this lab (ACE-CORE)
 
-- [O03 DC Motor Actuators](https://www.ace-lab.co.uk/ace-core)
+- [O03 DC Motor Actuators](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/O03_DC_Motor_Actuators.pdf)
 
 ## Files
 

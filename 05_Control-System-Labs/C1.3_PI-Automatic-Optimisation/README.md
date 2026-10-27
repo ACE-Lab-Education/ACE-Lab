@@ -15,7 +15,7 @@ Use optimisation to find PI gains that automatically meet defined DC motor speed
 ## Theory behind this lab (ACE-CORE)
 
 - [C02 System Response and Requirements](https://www.ace-lab.co.uk/ace-core)
-- [O04 Discrete-Time PID Control](https://doi.org/10.5281/zenodo.23086025)
+- [O04 Discrete-Time PID Control](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/O04_Learning_guide_discrete_time_pid_control.pdf) ([DOI](https://doi.org/10.5281/zenodo.23086025))
 
 ## Files
 

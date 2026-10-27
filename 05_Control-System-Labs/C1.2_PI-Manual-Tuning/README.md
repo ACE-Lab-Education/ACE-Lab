@@ -10,14 +10,14 @@ Manually tune the proportional and integral gains and see how each affects motor
 
 | | |
 |---|---|
-| 📄 Exercise sheet (PDF) | [Open](https://uploads.strikinglycdn.com/files/a1e3d096-73de-4c21-95a5-e6a42baff69c/Manual_Tuning_Discrete_Time_PID_Controller.pdf) |
+| 📄 Exercise sheet (PDF) | [C1.2_Manual_Tuning_Discrete_Time_PID_Controller.pdf](C1.2_Manual_Tuning_Discrete_Time_PID_Controller.pdf) |
 | 🔖 DOI | [10.5281/zenodo.23245132](https://doi.org/10.5281/zenodo.23245132) |
 | 🌐 Website | [ace-lab.co.uk/practical-exercises](https://www.ace-lab.co.uk/practical-exercises) |
 
 ## Theory behind this lab (ACE-CORE)
 
-- [R02 Manual Tuning of a PID Controller](https://doi.org/10.5281/zenodo.23219490)
-- [O04 Discrete-Time PID Control](https://doi.org/10.5281/zenodo.23086025)
+- [R02 Manual Tuning of a PID Controller](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/R02_Learning_guide_manual_tuning_pid_controller.pdf) ([DOI](https://doi.org/10.5281/zenodo.23219490))
+- [O04 Discrete-Time PID Control](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/O04_Learning_guide_discrete_time_pid_control.pdf) ([DOI](https://doi.org/10.5281/zenodo.23086025))
 
 ## Files
 

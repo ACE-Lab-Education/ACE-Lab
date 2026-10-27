@@ -10,14 +10,14 @@ Run a self-tuning PI controller that re-identifies the motor and re-tunes its ga
 
 | | |
 |---|---|
-| 📄 Exercise sheet (PDF) | [Open](https://uploads.strikinglycdn.com/files/1e1e05bc-9e88-4186-836e-000e74a2a90d/DC_Motor_Self_Tuning_PI_Control_using_RLS.pdf) |
+| 📄 Exercise sheet (PDF) | [C1.5_DC_Motor_Self_Tuning_PI_Control_using_RLS.pdf](C1.5_DC_Motor_Self_Tuning_PI_Control_using_RLS.pdf) |
 | 🔖 DOI | [10.5281/zenodo.23671554](https://doi.org/10.5281/zenodo.23671554) |
 | 🌐 Website | [ace-lab.co.uk/practical-exercises](https://www.ace-lab.co.uk/practical-exercises) |
 
 ## Theory behind this lab (ACE-CORE)
 
-- [E14 Recursive Least Squares for Online Parameter Estimation](https://doi.org/10.5281/zenodo.23671518)
-- [E16 Adaptive Control: the Self-Tuning PI Controller](https://doi.org/10.5281/zenodo.23671545)
+- [E14 Recursive Least Squares for Online Parameter Estimation](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/E14_Recursive_Least_Squares_for_Online_Parameter_Estimation.pdf) ([DOI](https://doi.org/10.5281/zenodo.23671518))
+- [E16 Adaptive Control: the Self-Tuning PI Controller](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-3_Online-Control-Methods/E16_Adaptive_Control_the_Self_Tuning_PI_Controller.pdf) ([DOI](https://doi.org/10.5281/zenodo.23671545))
 
 ## Files
 

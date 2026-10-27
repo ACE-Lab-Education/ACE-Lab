@@ -10,7 +10,7 @@ Build core MATLAB skills: commands, scripts, arrays, plotting and basic programm
 
 | | |
 |---|---|
-| 📄 Free course (MathWorks) | [Open](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) |
+| 🎓 Free course (MathWorks) | [Open](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) |
 | 🌐 Website | [ace-lab.co.uk/practical-exercises](https://www.ace-lab.co.uk/practical-exercises) |
 
 [← All exercises](../../README.md)

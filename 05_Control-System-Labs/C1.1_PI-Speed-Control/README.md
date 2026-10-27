@@ -10,15 +10,15 @@ Implement closed-loop PI speed control of the DC motor in Simulink and evaluate 
 
 | | |
 |---|---|
-| 📄 Exercise sheet (PDF) | [Open](https://uploads.strikinglycdn.com/files/c7bc0d64-e3ae-4d9e-a055-4dc97b743bcc/DC_Motor_Speed_Control_Using_a_PI_Controller.pdf) |
+| 📄 Exercise sheet (PDF) | [C1.1_DC_Motor_Speed_Control_Using_a_PI_Controller.pdf](C1.1_DC_Motor_Speed_Control_Using_a_PI_Controller.pdf) |
 | 🔖 DOI | [10.5281/zenodo.23043611](https://doi.org/10.5281/zenodo.23043611) |
 | 🌐 Website | [ace-lab.co.uk/practical-exercises](https://www.ace-lab.co.uk/practical-exercises) |
 
 ## Theory behind this lab (ACE-CORE)
 
 - [C02 System Response and Requirements](https://www.ace-lab.co.uk/ace-core)
-- [O04 Discrete-Time PID Control](https://doi.org/10.5281/zenodo.23086025)
-- [O05 Practical Considerations for PID Control](https://doi.org/10.5281/zenodo.23121627)
+- [O04 Discrete-Time PID Control](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/O04_Learning_guide_discrete_time_pid_control.pdf) ([DOI](https://doi.org/10.5281/zenodo.23086025))
+- [O05 Practical Considerations for PID Control](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/O05_Learning_guide_practical_considerations_for_pid_control.pdf) ([DOI](https://doi.org/10.5281/zenodo.23121627))
 
 ## Files
 

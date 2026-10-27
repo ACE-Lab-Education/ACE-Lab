@@ -10,13 +10,13 @@ Train a TD3 agent in simulation to choose the PI gains every 3 s, and evaluate i
 
 | | |
 |---|---|
-| 📄 Exercise sheet (PDF) | [Open](https://uploads.strikinglycdn.com/files/5f780c4d-6e1c-41e0-86b9-a7aff2a19ea3/DC_Motor_PI_Tuning_using_Reinforcement_Learning.pdf) |
+| 📄 Exercise sheet (PDF) | [C1.6_DC_Motor_PI_Tuning_using_Reinforcement_Learning.pdf](C1.6_DC_Motor_PI_Tuning_using_Reinforcement_Learning.pdf) |
 | 🔖 DOI | [10.5281/zenodo.23671556](https://doi.org/10.5281/zenodo.23671556) |
 | 🌐 Website | [ace-lab.co.uk/practical-exercises](https://www.ace-lab.co.uk/practical-exercises) |
 
 ## Theory behind this lab (ACE-CORE)
 
-- [E17 Reinforcement Learning for PI Controller Tuning](https://doi.org/10.5281/zenodo.23671547)
+- [E17 Reinforcement Learning for PI Controller Tuning](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-3_Online-Control-Methods/E17_Reinforcement_Learning_for_PI_Controller_Tuning.pdf) ([DOI](https://doi.org/10.5281/zenodo.23671547))
 
 ## Files
 

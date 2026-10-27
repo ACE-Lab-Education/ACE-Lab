@@ -10,12 +10,12 @@ Read a tactile push-button input and explore practical digital input behaviour i
 
 | | |
 |---|---|
-| 📄 Exercise sheet (PDF) | [Open](https://uploads.strikinglycdn.com/files/bafbd2d5-916c-49fd-97af-9b6a0516b5b8/Tactile_Button_Switch.pdf) |
+| 📄 Exercise sheet (PDF) | [P4_Tactile_Button_Switch.pdf](P4_Tactile_Button_Switch.pdf) |
 | 🌐 Website | [ace-lab.co.uk/practical-exercises](https://www.ace-lab.co.uk/practical-exercises) |
 
 ## Theory behind this lab (ACE-CORE)
 
-- [O01 Introduction to the ATmega328P Microcontroller (Arduino Uno)](https://doi.org/10.5281/zenodo.23326158)
+- [O01 Introduction to the ATmega328P Microcontroller (Arduino Uno)](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/O01_Intro_to_ATmega328P_Microcontroller.pdf) ([DOI](https://doi.org/10.5281/zenodo.23326158))
 
 ## Files
 

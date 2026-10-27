@@ -10,13 +10,13 @@ Measure temperature using a TMP36 sensor and investigate filtering and signal co
 
 | | |
 |---|---|
-| 📄 Exercise sheet (PDF) | [Open](https://uploads.strikinglycdn.com/files/bafbd2d5-916c-49fd-97af-9b6a0516b5b8/Temperature_Sensor.pdf) |
+| 📄 Exercise sheet (PDF) | [M4_Temperature_Sensor.pdf](M4_Temperature_Sensor.pdf) |
 | 🌐 Website | [ace-lab.co.uk/practical-exercises](https://www.ace-lab.co.uk/practical-exercises) |
 
 ## Theory behind this lab (ACE-CORE)
 
-- [O02 Microcontroller-Based Measurement](https://www.ace-lab.co.uk/ace-core)
-- [R01 Discrete-Time Low-Pass Filter Design](https://doi.org/10.5281/zenodo.23217095)
+- [O02 Microcontroller-Based Measurement for Control Systems](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/O02_Microcontroller_Based_Measurement.pdf) ([DOI](https://doi.org/10.5281/zenodo.23337635))
+- [R01 Discrete-Time Low-Pass Filter Design](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/R01_Learning_guide_discrete_time_low_pass_filter_design.pdf) ([DOI](https://doi.org/10.5281/zenodo.23217095))
 
 ## Files
 

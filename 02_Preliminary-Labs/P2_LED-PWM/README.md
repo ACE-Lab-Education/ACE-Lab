@@ -10,12 +10,12 @@ Use PWM from Simulink to vary LED brightness and explore analogue-like actuation
 
 | | |
 |---|---|
-| 📄 Exercise sheet (PDF) | [Open](https://uploads.strikinglycdn.com/files/5d0314d2-395b-4e8c-8f32-a1905d6da0c0/LED_PWM_Exercise.pdf) |
+| 📄 Exercise sheet (PDF) | [P2_LED_PWM_Exercise.pdf](P2_LED_PWM_Exercise.pdf) |
 | 🌐 Website | [ace-lab.co.uk/practical-exercises](https://www.ace-lab.co.uk/practical-exercises) |
 
 ## Theory behind this lab (ACE-CORE)
 
-- [O01 Introduction to the ATmega328P Microcontroller (Arduino Uno)](https://doi.org/10.5281/zenodo.23326158)
+- [O01 Introduction to the ATmega328P Microcontroller (Arduino Uno)](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/O01_Intro_to_ATmega328P_Microcontroller.pdf) ([DOI](https://doi.org/10.5281/zenodo.23326158))
 
 ## Files
 

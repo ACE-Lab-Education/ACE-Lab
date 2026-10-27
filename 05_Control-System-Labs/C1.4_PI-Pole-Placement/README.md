@@ -10,14 +10,14 @@ Identify the motor with linear least squares, calculate PI gains by pole placeme
 
 | | |
 |---|---|
-| 📄 Exercise sheet (PDF) | [Open](https://uploads.strikinglycdn.com/files/6928bd48-3726-4073-9ce0-ddaa2cea69fa/DC_Motor_PI_Control_Design_by_Pole_Placement_from_an_LLS_Model.pdf) |
+| 📄 Exercise sheet (PDF) | [C1.4_DC_Motor_PI_Control_Design_by_Pole_Placement_from_an_LLS_Model.pdf](C1.4_DC_Motor_PI_Control_Design_by_Pole_Placement_from_an_LLS_Model.pdf) |
 | 🔖 DOI | [10.5281/zenodo.23671552](https://doi.org/10.5281/zenodo.23671552) |
 | 🌐 Website | [ace-lab.co.uk/practical-exercises](https://www.ace-lab.co.uk/practical-exercises) |
 
 ## Theory behind this lab (ACE-CORE)
 
-- [E06 Linear Least Squares for Parameter Estimation](https://doi.org/10.5281/zenodo.23568450)
-- [E15 PI Control Design by Pole Placement](https://doi.org/10.5281/zenodo.23671543)
+- [E06 Linear Least Squares for Parameter Estimation](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/E06_Linear_Least_Squares.pdf) ([DOI](https://doi.org/10.5281/zenodo.23568450))
+- [E15 PI Control Design by Pole Placement](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/E15_PI_Control_Design_by_Pole_Placement.pdf) ([DOI](https://doi.org/10.5281/zenodo.23671543))
 
 ## Files
 

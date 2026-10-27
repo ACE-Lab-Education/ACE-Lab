@@ -10,14 +10,14 @@ Design a first-order discrete-time low-pass filter to smooth noisy motor speed, 
 
 | | |
 |---|---|
-| 📄 Exercise sheet (PDF) | [Open](https://uploads.strikinglycdn.com/files/a1e3d096-73de-4c21-95a5-e6a42baff69c/Low_pass_filter_dc_motor.pdf) |
+| 📄 Exercise sheet (PDF) | [A1.3_Low_pass_filter_dc_motor.pdf](A1.3_Low_pass_filter_dc_motor.pdf) |
 | 🔖 DOI | [10.5281/zenodo.23244891](https://doi.org/10.5281/zenodo.23244891) |
 | 🌐 Website | [ace-lab.co.uk/practical-exercises](https://www.ace-lab.co.uk/practical-exercises) |
 
 ## Theory behind this lab (ACE-CORE)
 
-- [R01 Discrete-Time Low-Pass Filter Design](https://doi.org/10.5281/zenodo.23217095)
-- [E05 Discrete-Time Modelling](https://doi.org/10.5281/zenodo.23325170)
+- [R01 Discrete-Time Low-Pass Filter Design](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/R01_Learning_guide_discrete_time_low_pass_filter_design.pdf) ([DOI](https://doi.org/10.5281/zenodo.23217095))
+- [E05 Discrete-Time Modelling](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/E05_Discrete_Time_Modelling.pdf) ([DOI](https://doi.org/10.5281/zenodo.23325170))
 
 ## Files
 

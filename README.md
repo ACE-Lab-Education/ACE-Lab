@@ -28,7 +28,8 @@ ACE-Lab/
 ├── 03_Measurement-Labs/       M1–M4   (Base + Sense)
 ├── 04_Actuator-Labs/          A1.1–A2 (Base + Sense + Actuate)
 ├── 05_Control-System-Labs/    C1.1–C1.6 (Base + Sense + Actuate)
-└── ACE-CORE/                  all ACE-CORE learning guide PDFs, by course level
+├── ACE-CORE/                  all ACE-CORE learning guide PDFs, by course level
+└── Code_DC-Motor/             MATLAB & Simulink files for the DC motor labs (A1.4–A1.5, C1.4–C1.6)
 ```
 Every exercise folder contains a `README.md`, the exercise sheet PDF, a `matlab/` folder and a `simulink/` folder.
 

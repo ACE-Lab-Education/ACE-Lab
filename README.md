@@ -1,24 +1,146 @@
 <p align="center"><a href="https://www.ace-lab.co.uk"><b>🌐 www.ace-lab.co.uk</b></a> &nbsp;·&nbsp; <a href="https://www.ace-lab.co.uk/practical-exercises">Practical Exercises</a> &nbsp;·&nbsp; <a href="https://www.ace-lab.co.uk/ace-core">ACE-CORE</a> &nbsp;·&nbsp; <a href="https://www.ace-lab.co.uk/build-you-own-ace-lab">Get an ACE-Lab</a></p>
 
-<h1 align="center">ACE-Lab Practical Exercises</h1>
-<p align="center"><b>Practical First. Theory Follows.</b><br>Every ACE-Lab exercise sheet, learning guide, and MATLAB &amp; Simulink file in one place.</p>
+<h1 align="center">ACE-Lab Practical Exercises &amp; ACE-CORE Learning Guides</h1>
+<p align="center"><b>Practical First. Theory Follows.</b><br>Every ACE-Lab exercise sheet, ACE-CORE learning guide, and MATLAB &amp; Simulink file, on one page.</p>
 
 <p align="center"><img src="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/f_auto,q_auto/22329992/543744_727789.png" alt="ACE-Lab Base + Sense" height="180">&nbsp;&nbsp;<img src="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/f_auto,q_auto/22329992/895721_522242.png" alt="ACE-Lab Actuate" height="180"></p>
 
-> 🌐 **The full ACE-Lab learning resources are at [www.ace-lab.co.uk](https://www.ace-lab.co.uk).** This repository holds all the files: exercise sheets, ACE-CORE learning guides, and MATLAB &amp; Simulink files.
+<p align="center"><a href="#practical-exercises"><b>🔧 Practical exercises</b></a> &nbsp;·&nbsp; <a href="#ace-core-learning-guides"><b>📘 ACE-CORE learning guides</b></a> &nbsp;·&nbsp; <a href="#getting-started">Getting started</a> &nbsp;·&nbsp; <a href="#citing-and-licence">Citing</a></p>
 
 ## How ACE-Lab works
 | 1 · Get the hardware | 2 · Do the practical exercise | 3 · Learn the theory |
 |---|---|---|
-| **Base + Sense**: Arduino, breadboard, LEDs, switches and sensors. **Actuate**: DC motor with encoder and cooling fan. | Each exercise has its PDF sheet, DOI, and MATLAB & Simulink files here on GitHub. Run the model on real hardware and see the result. | Each exercise links to the **ACE-CORE** guides that explain why it works, from first principles to adaptive control. |
-| [Get an ACE-Lab →](https://www.ace-lab.co.uk/build-you-own-ace-lab) | [Browse the exercises →](https://github.com/ACE-Lab-Education/ACE-Lab) | [ACE-CORE →](https://www.ace-lab.co.uk/ace-core) |
-
+| **Base + Sense**: Arduino, breadboard, LEDs, switches and sensors. **Actuate**: DC motor with encoder, servo and cooling fan. | Each exercise has its PDF sheet, DOI, and MATLAB & Simulink files. Run the model on real hardware and see the result. | Each exercise links to the **ACE-CORE** guides that explain why it works, from first principles to adaptive control. |
+| [Get an ACE-Lab →](https://www.ace-lab.co.uk/build-you-own-ace-lab) | [Practical exercises →](https://www.ace-lab.co.uk/practical-exercises) | [ACE-CORE learning guides →](https://www.ace-lab.co.uk/ace-core) |
 
 ## Getting started
 1. **Download this repository:** click the green **Code** button, then **Download ZIP** (or `git clone https://github.com/ACE-Lab-Education/ACE-Lab.git`).
-2. Complete **G1** to install MATLAB, Simulink and the Arduino support package.
-3. Open an exercise folder, follow its PDF sheet, and run the model from `simulink/`.
-4. Read the linked **ACE-CORE** guide to understand the theory.
+2. Complete **[G1](#ex-g1)** to install MATLAB, Simulink and the Arduino support package.
+3. Pick an exercise below, follow its PDF sheet, and run the model from its `simulink/` folder.
+4. Click the **ACE-CORE** codes next to the exercise to read the theory behind it.
+
+## Practical exercises
+Each exercise lists the ACE-CORE guides that explain it. Click a guide code to jump to it further down this page.
+
+### [Getting Started](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/01_Getting-Started)
+*Hardware: Base + Sense*
+
+| Code | Exercise | Time | Sheet | Theory (ACE-CORE) |
+|---|---|---|---|---|
+| <a id="ex-g1"></a>**G1** | [Install MATLAB, Simulink and Code Generation](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/01_Getting-Started/G1_Install-MATLAB-Simulink) | 1 hour | — | — |
+| <a id="ex-g2"></a>**G2** | [MATLAB Onramp](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/01_Getting-Started/G2_MATLAB-Onramp) | 2 hours | [Course](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) | — |
+| <a id="ex-g3"></a>**G3** | [Simulink Onramp](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/01_Getting-Started/G3_Simulink-Onramp) | 2 hours | [Course](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink) | — |
+
+### [Preliminary Labs](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/02_Preliminary-Labs)
+*Hardware: Base + Sense*
+
+| Code | Exercise | Time | Sheet | Theory (ACE-CORE) |
+|---|---|---|---|---|
+| <a id="ex-p1"></a>**P1** | [LED (Digital)](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/02_Preliminary-Labs/P1_LED-Digital) | 0.5 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/02_Preliminary-Labs/P1_LED-Digital/P1_LED_Digital_Exercise.pdf) | [O01](#core-o01) |
+| <a id="ex-p2"></a>**P2** | [LED (PWM)](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/02_Preliminary-Labs/P2_LED-PWM) | 0.5 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/02_Preliminary-Labs/P2_LED-PWM/P2_LED_PWM_Exercise.pdf) | [O01](#core-o01) |
+| <a id="ex-p3"></a>**P3** | [On/Off Power Switch](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/02_Preliminary-Labs/P3_On-Off-Power-Switch) | 0.5 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/02_Preliminary-Labs/P3_On-Off-Power-Switch/P3_On_Off_Power_Switch.pdf) | [O01](#core-o01) |
+| <a id="ex-p4"></a>**P4** | [Tactile Button Switch](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/02_Preliminary-Labs/P4_Tactile-Button-Switch) | 0.5 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/02_Preliminary-Labs/P4_Tactile-Button-Switch/P4_Tactile_Button_Switch.pdf) | [O01](#core-o01) |
+
+### [Measurement Labs](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/03_Measurement-Labs)
+*Hardware: Base + Sense*
+
+| Code | Exercise | Time | Sheet | Theory (ACE-CORE) |
+|---|---|---|---|---|
+| <a id="ex-m1"></a>**M1** | [LDR (Light Dependent Resistor)](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/03_Measurement-Labs/M1_LDR) | 0.5 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/03_Measurement-Labs/M1_LDR/M1_LDR_Light_Dependent_Resistor.pdf) | [O02](#core-o02) |
+| <a id="ex-m2"></a>**M2** | [Slide Potentiometer](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/03_Measurement-Labs/M2_Slide-Potentiometer) | 0.5 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/03_Measurement-Labs/M2_Slide-Potentiometer/M2_Slide_Potentiometer.pdf) | [O02](#core-o02) |
+| <a id="ex-m3"></a>**M3** | [Ultrasonic Sensor](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/03_Measurement-Labs/M3_Ultrasonic-Sensor) | 1 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/03_Measurement-Labs/M3_Ultrasonic-Sensor/M3_Ultrasonic_Sensor.pdf) | [O02](#core-o02) |
+| <a id="ex-m4"></a>**M4** | [Temperature Sensor](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/03_Measurement-Labs/M4_Temperature-Sensor) | 1 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/03_Measurement-Labs/M4_Temperature-Sensor/M4_Temperature_Sensor.pdf) | [O02](#core-o02) [R01](#core-r01) |
+
+### [Actuator Labs](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/04_Actuator-Labs)
+*Hardware: Base + Sense + Actuate*
+
+| Code | Exercise | Time | Sheet | Theory (ACE-CORE) |
+|---|---|---|---|---|
+| <a id="ex-a1-1"></a>**A1.1** | [DC Motor Polarity Control](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/04_Actuator-Labs/A1.1_DC-Motor-Polarity) | 0.5 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/04_Actuator-Labs/A1.1_DC-Motor-Polarity/A1.1_DC_motor_polarity_control.pdf) | [O03](#core-o03) |
+| <a id="ex-a1-2"></a>**A1.2** | [DC Motor Speed Measurement using an Encoder](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/04_Actuator-Labs/A1.2_DC-Motor-Speed-Encoder) | 1 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/04_Actuator-Labs/A1.2_DC-Motor-Speed-Encoder/A1.2_DC_motor_speed_measurement.pdf) · [DOI](https://doi.org/10.5281/zenodo.23019221) | [O02](#core-o02) [O03](#core-o03) |
+| <a id="ex-a1-3"></a>**A1.3** | [Discrete-Time Low-Pass Filter Design for DC Motor Speed Measurement](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/04_Actuator-Labs/A1.3_Low-Pass-Filter) | 1 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/04_Actuator-Labs/A1.3_Low-Pass-Filter/A1.3_Low_pass_filter_dc_motor.pdf) · [DOI](https://doi.org/10.5281/zenodo.23244891) | [R01](#core-r01) [E05](#core-e05) |
+| <a id="ex-a1-4"></a>**A1.4** | [Parameter Estimation of a DC Motor using Linear Least Squares](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/04_Actuator-Labs/A1.4_LLS-Parameter-Estimation) | 1 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/04_Actuator-Labs/A1.4_LLS-Parameter-Estimation/A1.4_Parameter_Estimation_of_a_DC_Motor_using_LLS.pdf) · [DOI](https://doi.org/10.5281/zenodo.23568474) | [E06](#core-e06) [E08](#core-e08) |
+| <a id="ex-a1-5"></a>**A1.5** | [Online Parameter Estimation of a DC Motor using Recursive Least Squares](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/04_Actuator-Labs/A1.5_RLS-Online-Estimation) | 1 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/04_Actuator-Labs/A1.5_RLS-Online-Estimation/A1.5_Online_Parameter_Estimation_of_a_DC_Motor_using_RLS.pdf) · [DOI](https://doi.org/10.5281/zenodo.23671549) | [E14](#core-e14) |
+| <a id="ex-a2"></a>**A2** | [DC Motor Cooling Fan](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/04_Actuator-Labs/A2_Cooling-Fan) | 1 hour | — | [O03](#core-o03) |
+
+### [DC Motor Control System Labs](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/05_Control-System-Labs)
+*Hardware: Base + Sense + Actuate*
+
+| Code | Exercise | Time | Sheet | Theory (ACE-CORE) |
+|---|---|---|---|---|
+| <a id="ex-c1-1"></a>**C1.1** | [DC Motor Speed Control Using a PI Controller](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/05_Control-System-Labs/C1.1_PI-Speed-Control) | 1 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/05_Control-System-Labs/C1.1_PI-Speed-Control/C1.1_DC_Motor_Speed_Control_Using_a_PI_Controller.pdf) · [DOI](https://doi.org/10.5281/zenodo.23043611) | [C02](#core-c02) [O04](#core-o04) [O05](#core-o05) |
+| <a id="ex-c1-2"></a>**C1.2** | [DC Motor PI Control: Manual Tuning](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/05_Control-System-Labs/C1.2_PI-Manual-Tuning) | 1 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/05_Control-System-Labs/C1.2_PI-Manual-Tuning/C1.2_Manual_Tuning_Discrete_Time_PID_Controller.pdf) · [DOI](https://doi.org/10.5281/zenodo.23245132) | [R02](#core-r02) [O04](#core-o04) |
+| <a id="ex-c1-3"></a>**C1.3** | [DC Motor PI Control: Automatic Optimisation](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/05_Control-System-Labs/C1.3_PI-Automatic-Optimisation) | 1 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/05_Control-System-Labs/C1.3_PI-Automatic-Optimisation/C1.3_DC_Motor_PI_Control_Automatic_Optimisation.pdf) | [C02](#core-c02) [O04](#core-o04) |
+| <a id="ex-c1-4"></a>**C1.4** | [DC Motor PI Control Design by Pole Placement from an LLS Model](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/05_Control-System-Labs/C1.4_PI-Pole-Placement) | 1 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/05_Control-System-Labs/C1.4_PI-Pole-Placement/C1.4_DC_Motor_PI_Control_Design_by_Pole_Placement_from_an_LLS_Model.pdf) · [DOI](https://doi.org/10.5281/zenodo.23671552) | [E06](#core-e06) [E15](#core-e15) |
+| <a id="ex-c1-5"></a>**C1.5** | [DC Motor Self-Tuning PI Control using Recursive Least Squares](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/05_Control-System-Labs/C1.5_Self-Tuning-PI) | 1 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/05_Control-System-Labs/C1.5_Self-Tuning-PI/C1.5_DC_Motor_Self_Tuning_PI_Control_using_RLS.pdf) · [DOI](https://doi.org/10.5281/zenodo.23671554) | [E14](#core-e14) [E16](#core-e16) |
+| <a id="ex-c1-6"></a>**C1.6** | [DC Motor PI Tuning using Reinforcement Learning](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/05_Control-System-Labs/C1.6_Reinforcement-Learning-PI) | 1 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/05_Control-System-Labs/C1.6_Reinforcement-Learning-PI/C1.6_DC_Motor_PI_Tuning_using_Reinforcement_Learning.pdf) · [DOI](https://doi.org/10.5281/zenodo.23671556) | [E17](#core-e17) |
+
+MATLAB & Simulink files for the DC motor labs (A1.4–A1.5, C1.4–C1.6) are in **[Code_DC-Motor](Code_DC-Motor)**.
+
+## ACE-CORE learning guides
+ACE-CORE is the theory behind ACE-Lab: **C**omprehend, **O**perate, **R**efine, **E**ngineer. Each guide comes with a short hands-on **lab guide** (about an hour on the ACE-Lab hardware) and lists the practical exercises it supports.
+
+### Level 1 · Practical Control Engineering
+| Code | Learning guide | Guide | Hands-on lab | Used in exercises |
+|---|---|---|---|---|
+| <a id="core-c01"></a>**C01** | Introduction to Control Systems | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/C01_Introduction_to_control_systems.pdf) · [DOI](https://doi.org/10.5281/zenodo.23209659) | [C01-L1](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/Lab-Guides/C01_L1_Open_Loop_and_Closed_Loop_Control_under_Load.pdf) · [DOI](https://doi.org/10.5281/zenodo.23725300) | — |
+| <a id="core-c02"></a>**C02** | System Response and Requirements | coming soon | [C02-L1](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/Lab-Guides/C02_L1_Grading_a_Control_System_against_Requirements.pdf) · [DOI](https://doi.org/10.5281/zenodo.23725302) | [C1.1](#ex-c1-1) [C1.3](#ex-c1-3) |
+| <a id="core-o01"></a>**O01** | Introduction to the ATmega328P Microcontroller (Arduino Uno) | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/O01_Intro_to_ATmega328P_Microcontroller.pdf) · [DOI](https://doi.org/10.5281/zenodo.23326158) | [O01-L1](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/Lab-Guides/O01_L1_Sample_Time_and_Timing_on_the_ATmega328P.pdf) · [DOI](https://doi.org/10.5281/zenodo.23725306) | [P1](#ex-p1) [P2](#ex-p2) [P3](#ex-p3) [P4](#ex-p4) |
+| <a id="core-o02"></a>**O02** | Microcontroller-Based Measurement for Control Systems | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/O02_Microcontroller_Based_Measurement.pdf) · [DOI](https://doi.org/10.5281/zenodo.23337635) | [O02-L1](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/Lab-Guides/O02_L1_Sensor_Calibration_and_Quantisation.pdf) · [DOI](https://doi.org/10.5281/zenodo.23725308) | [M1](#ex-m1) [M2](#ex-m2) [M3](#ex-m3) [M4](#ex-m4) [A1.2](#ex-a1-2) |
+| <a id="core-o03"></a>**O03** | DC Motor Actuators | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/O03_DC_Motor_Actuators.pdf) | [O03-L1](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/Lab-Guides/O03_L1_PWM_to_Speed_Characteristic_of_a_DC_Motor.pdf) · [DOI](https://doi.org/10.5281/zenodo.23725310) | [A1.1](#ex-a1-1) [A1.2](#ex-a1-2) [A2](#ex-a2) |
+| <a id="core-o04"></a>**O04** | Discrete-Time PID Control | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/O04_Learning_guide_discrete_time_pid_control.pdf) · [DOI](https://doi.org/10.5281/zenodo.23086025) | [O04-L1](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/Lab-Guides/O04_L1_Light_Level_Control_with_an_LED_and_LDR.pdf) · [DOI](https://doi.org/10.5281/zenodo.23725312) | [C1.1](#ex-c1-1) [C1.2](#ex-c1-2) [C1.3](#ex-c1-3) |
+| <a id="core-o05"></a>**O05** | Practical Considerations for PID Control | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/O05_Learning_guide_practical_considerations_for_pid_control.pdf) · [DOI](https://doi.org/10.5281/zenodo.23121627) | [O05-L1](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/Lab-Guides/O05_L1_Integrator_Windup_and_Bumpless_Transfer.pdf) · [DOI](https://doi.org/10.5281/zenodo.23725314) | [C1.1](#ex-c1-1) |
+| <a id="core-r01"></a>**R01** | Discrete-Time Low-Pass Filter Design | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/R01_Learning_guide_discrete_time_low_pass_filter_design.pdf) · [DOI](https://doi.org/10.5281/zenodo.23217095) | [R01-L1](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/Lab-Guides/R01_L1_Low_Pass_Filter_Design_for_Ultrasonic_Distance_Measurement.pdf) · [DOI](https://doi.org/10.5281/zenodo.23725316) | [M4](#ex-m4) [A1.3](#ex-a1-3) |
+| <a id="core-r02"></a>**R02** | Manual Tuning of a PID Controller | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/R02_Learning_guide_manual_tuning_pid_controller.pdf) · [DOI](https://doi.org/10.5281/zenodo.23219490) | [R02-L1](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/Lab-Guides/R02_L1_Manual_PID_Tuning_of_DC_Motor_Angle_Control.pdf) · [DOI](https://doi.org/10.5281/zenodo.23725318) | [C1.2](#ex-c1-2) |
+
+### Level 2 · Model-Based Design
+**Mathematical Foundations**
+
+| Code | Learning guide | Guide | Hands-on lab | Used in exercises |
+|---|---|---|---|---|
+| <a id="core-e01"></a>**E01** | ODE and Time Solution | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/E01_ODE_and_time_solution.pdf) · [DOI](https://doi.org/10.5281/zenodo.23222452) | [E01-L1](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/Lab-Guides/E01_L1_RC_Circuit_Charging_ODE_and_Time_Solution.pdf) · [DOI](https://doi.org/10.5281/zenodo.23725320) | — |
+| <a id="core-e02"></a>**E02** | Laplace Transforms | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/E02_Laplace_Transforms.pdf) · [DOI](https://doi.org/10.5281/zenodo.23301697) | [E02-L1](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/Lab-Guides/E02_L1_Laplace_Transforms_DC_Motor_Response_to_a_Ramp_Input.pdf) · [DOI](https://doi.org/10.5281/zenodo.23725322) | — |
+| <a id="core-e03"></a>**E03** | Block Diagram Algebra | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/E03_Block_Diagram_Algebra.pdf) · [DOI](https://doi.org/10.5281/zenodo.23301775) | [E03-L1](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/Lab-Guides/E03_L1_Block_Diagram_Algebra_Closed_Loop_P_Speed_Control.pdf) · [DOI](https://doi.org/10.5281/zenodo.23725324) | — |
+| <a id="core-e04"></a>**E04** | Inverse Laplace Transform | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/E04_Inverse_Laplace_Transform.pdf) · [DOI](https://doi.org/10.5281/zenodo.23301865) | [E04-L1](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/Lab-Guides/E04_L1_Inverse_Laplace_Transform_Two_Stage_RC_Network.pdf) · [DOI](https://doi.org/10.5281/zenodo.23725326) | — |
+| <a id="core-e05"></a>**E05** | Discrete-Time Modelling | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/E05_Discrete_Time_Modelling.pdf) · [DOI](https://doi.org/10.5281/zenodo.23325170) | [E05-L1](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/Lab-Guides/E05_L1_Discrete_Time_Modelling_of_a_DC_Motor.pdf) · [DOI](https://doi.org/10.5281/zenodo.23725328) | [A1.3](#ex-a1-3) |
+
+**System Identification**
+
+| Code | Learning guide | Guide | Hands-on lab | Used in exercises |
+|---|---|---|---|---|
+| <a id="core-e06"></a>**E06** | Linear Least Squares for Parameter Estimation | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/E06_Linear_Least_Squares.pdf) · [DOI](https://doi.org/10.5281/zenodo.23568450) | [E06-L1](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/Lab-Guides/E06_L1_Least_Squares_Identification_of_an_LED_and_LDR.pdf) · [DOI](https://doi.org/10.5281/zenodo.23725330) | [A1.4](#ex-a1-4) [C1.4](#ex-c1-4) |
+| <a id="core-e14"></a>**E14** | Recursive Least Squares for Online Parameter Estimation | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/E14_Recursive_Least_Squares_for_Online_Parameter_Estimation.pdf) · [DOI](https://doi.org/10.5281/zenodo.23671518) | — | [A1.5](#ex-a1-5) [C1.5](#ex-c1-5) |
+
+**Continuous-Time Performance and Stability**
+
+| Code | Learning guide | Guide | Hands-on lab | Used in exercises |
+|---|---|---|---|---|
+| <a id="core-e07"></a>**E07** | Final Value Theorem | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/E07_Final_Value_Theorem.pdf) · [DOI](https://doi.org/10.5281/zenodo.23325008) | [E07-L1](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/Lab-Guides/E07_L1_Final_Value_Theorem_and_Steady_State_Error.pdf) · [DOI](https://doi.org/10.5281/zenodo.23725332) | — |
+| <a id="core-e08"></a>**E08** | Response Analysis of First-Order Transfer Functions | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/E08_First_Order_Response.pdf) · [DOI](https://doi.org/10.5281/zenodo.23325078) | [E08-L1](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/Lab-Guides/E08_L1_DC_Motor_Speed_Step_Response.pdf) · [DOI](https://doi.org/10.5281/zenodo.23725334) | [A1.4](#ex-a1-4) |
+| <a id="core-e09"></a>**E09** | Response Analysis of Second-Order Transfer Functions | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/E09_Second_Order_Response.pdf) · [DOI](https://doi.org/10.5281/zenodo.23325138) | [E09-L1](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/Lab-Guides/E09_L1_Second_Order_Response_DC_Motor_Angle_under_P_Control.pdf) · [DOI](https://doi.org/10.5281/zenodo.23725336) | — |
+| <a id="core-e10"></a>**E10** | Stability and the Routh-Hurwitz Stability Criterion | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/E10_Stability_and_the_Routh_Hurwitz_Stability_Criterion.pdf) · [DOI](https://doi.org/10.5281/zenodo.23511336) | [E10-L1](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/Lab-Guides/E10_L1_Routh_Hurwitz_Finding_the_Critical_Gain.pdf) · [DOI](https://doi.org/10.5281/zenodo.23725338) | — |
+| <a id="core-e11"></a>**E11** | Proportional Control Design using Root Locus | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/E11_Proportional_Control_Design_using_Root_Locus.pdf) · [DOI](https://doi.org/10.5281/zenodo.23511338) | [E11-L1](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/Lab-Guides/E11_L1_Root_Locus_Designing_a_Gain_for_a_Damping_Target.pdf) · [DOI](https://doi.org/10.5281/zenodo.23725340) | — |
+
+**Discrete-Time Performance and Stability**
+
+| Code | Learning guide | Guide | Hands-on lab | Used in exercises |
+|---|---|---|---|---|
+| <a id="core-e12"></a>**E12** | The z-Plane: Stability, Performance and the Jury Test | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/E12_The_z_Plane_Stability_Performance_and_the_Jury_Test.pdf) · [DOI](https://doi.org/10.5281/zenodo.23511340) | [E12-L1](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/Lab-Guides/E12_L1_The_z_Plane_and_the_Jury_Test_Instability_from_Slow_Sampling.pdf) · [DOI](https://doi.org/10.5281/zenodo.23725343) | — |
+| <a id="core-e13"></a>**E13** | Proportional Control Design using Root Locus on the z-Plane | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/E13_Proportional_Control_Design_using_Root_Locus_on_the_z_Plane.pdf) · [DOI](https://doi.org/10.5281/zenodo.23511342) | [E13-L1](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/Lab-Guides/E13_L1_Root_Locus_on_the_z_Plane_Discrete_P_Design_for_Angle_Control.pdf) · [DOI](https://doi.org/10.5281/zenodo.23725346) | — |
+
+**Control System Design**
+
+| Code | Learning guide | Guide | Hands-on lab | Used in exercises |
+|---|---|---|---|---|
+| <a id="core-e15"></a>**E15** | PI Control Design by Pole Placement | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/E15_PI_Control_Design_by_Pole_Placement.pdf) · [DOI](https://doi.org/10.5281/zenodo.23671543) | — | [C1.4](#ex-c1-4) |
+
+### Level 3 · Online Control Methods
+| Code | Learning guide | Guide | Hands-on lab | Used in exercises |
+|---|---|---|---|---|
+| <a id="core-e16"></a>**E16** | Adaptive Control: the Self-Tuning PI Controller | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-3_Online-Control-Methods/E16_Adaptive_Control_the_Self_Tuning_PI_Controller.pdf) · [DOI](https://doi.org/10.5281/zenodo.23671545) | — | [C1.5](#ex-c1-5) |
+| <a id="core-e17"></a>**E17** | Reinforcement Learning for PI Controller Tuning | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-3_Online-Control-Methods/E17_Reinforcement_Learning_for_PI_Controller_Tuning.pdf) · [DOI](https://doi.org/10.5281/zenodo.23671547) | — | [C1.6](#ex-c1-6) |
+
+All guide PDFs are also in the **[ACE-CORE folder](ACE-CORE)**, sorted by course level.
 
 ## Repository structure
 ```
@@ -28,70 +150,15 @@ ACE-Lab/
 ├── 03_Measurement-Labs/       M1–M4   (Base + Sense)
 ├── 04_Actuator-Labs/          A1.1–A2 (Base + Sense + Actuate)
 ├── 05_Control-System-Labs/    C1.1–C1.6 (Base + Sense + Actuate)
-├── ACE-CORE/                  all ACE-CORE learning guide PDFs, by course level
+├── ACE-CORE/                  learning guide and lab guide PDFs, by course level
 └── Code_DC-Motor/             MATLAB & Simulink files for the DC motor labs (A1.4–A1.5, C1.4–C1.6)
 ```
 Every exercise folder contains a `README.md`, the exercise sheet PDF, a `matlab/` folder and a `simulink/` folder.
 
-## Practical exercises
-### [Getting Started](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/01_Getting-Started)
-*Hardware: Base + Sense*
+## Citing and licence
+Each exercise, learning guide and lab guide has its own DOI on Zenodo. Please cite the specific resource you use.
 
-| Code | Exercise | Time | Sheet | DOI |
-|---|---|---|---|---|
-| **G1** | [Install MATLAB, Simulink and Code Generation](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/01_Getting-Started/G1_Install-MATLAB-Simulink) | 1 hour | — | — |
-| **G2** | [MATLAB Onramp](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/01_Getting-Started/G2_MATLAB-Onramp) | 2 hours | [Course](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) | — |
-| **G3** | [Simulink Onramp](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/01_Getting-Started/G3_Simulink-Onramp) | 2 hours | [Course](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink) | — |
-
-### [Preliminary Labs](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/02_Preliminary-Labs)
-*Hardware: Base + Sense*
-
-| Code | Exercise | Time | Sheet | DOI |
-|---|---|---|---|---|
-| **P1** | [LED (Digital)](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/02_Preliminary-Labs/P1_LED-Digital) | 0.5 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/02_Preliminary-Labs/P1_LED-Digital/P1_LED_Digital_Exercise.pdf) | — |
-| **P2** | [LED (PWM)](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/02_Preliminary-Labs/P2_LED-PWM) | 0.5 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/02_Preliminary-Labs/P2_LED-PWM/P2_LED_PWM_Exercise.pdf) | — |
-| **P3** | [On/Off Power Switch](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/02_Preliminary-Labs/P3_On-Off-Power-Switch) | 0.5 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/02_Preliminary-Labs/P3_On-Off-Power-Switch/P3_On_Off_Power_Switch.pdf) | — |
-| **P4** | [Tactile Button Switch](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/02_Preliminary-Labs/P4_Tactile-Button-Switch) | 0.5 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/02_Preliminary-Labs/P4_Tactile-Button-Switch/P4_Tactile_Button_Switch.pdf) | — |
-
-### [Measurement Labs](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/03_Measurement-Labs)
-*Hardware: Base + Sense*
-
-| Code | Exercise | Time | Sheet | DOI |
-|---|---|---|---|---|
-| **M1** | [LDR (Light Dependent Resistor)](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/03_Measurement-Labs/M1_LDR) | 0.5 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/03_Measurement-Labs/M1_LDR/M1_LDR_Light_Dependent_Resistor.pdf) | — |
-| **M2** | [Slide Potentiometer](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/03_Measurement-Labs/M2_Slide-Potentiometer) | 0.5 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/03_Measurement-Labs/M2_Slide-Potentiometer/M2_Slide_Potentiometer.pdf) | — |
-| **M3** | [Ultrasonic Sensor](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/03_Measurement-Labs/M3_Ultrasonic-Sensor) | 1 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/03_Measurement-Labs/M3_Ultrasonic-Sensor/M3_Ultrasonic_Sensor.pdf) | — |
-| **M4** | [Temperature Sensor](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/03_Measurement-Labs/M4_Temperature-Sensor) | 1 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/03_Measurement-Labs/M4_Temperature-Sensor/M4_Temperature_Sensor.pdf) | — |
-
-### [Actuator Labs](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/04_Actuator-Labs)
-*Hardware: Base + Sense + Actuate*
-
-| Code | Exercise | Time | Sheet | DOI |
-|---|---|---|---|---|
-| **A1.1** | [DC Motor Polarity Control](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/04_Actuator-Labs/A1.1_DC-Motor-Polarity) | 0.5 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/04_Actuator-Labs/A1.1_DC-Motor-Polarity/A1.1_DC_motor_polarity_control.pdf) | — |
-| **A1.2** | [DC Motor Speed Measurement using an Encoder](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/04_Actuator-Labs/A1.2_DC-Motor-Speed-Encoder) | 1 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/04_Actuator-Labs/A1.2_DC-Motor-Speed-Encoder/A1.2_DC_motor_speed_measurement.pdf) | [23019221](https://doi.org/10.5281/zenodo.23019221) |
-| **A1.3** | [Discrete-Time Low-Pass Filter Design for DC Motor Speed Measurement](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/04_Actuator-Labs/A1.3_Low-Pass-Filter) | 1 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/04_Actuator-Labs/A1.3_Low-Pass-Filter/A1.3_Low_pass_filter_dc_motor.pdf) | [23244891](https://doi.org/10.5281/zenodo.23244891) |
-| **A1.4** | [Parameter Estimation of a DC Motor using Linear Least Squares](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/04_Actuator-Labs/A1.4_LLS-Parameter-Estimation) | 1 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/04_Actuator-Labs/A1.4_LLS-Parameter-Estimation/A1.4_Parameter_Estimation_of_a_DC_Motor_using_LLS.pdf) | [23568474](https://doi.org/10.5281/zenodo.23568474) |
-| **A1.5** | [Online Parameter Estimation of a DC Motor using Recursive Least Squares](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/04_Actuator-Labs/A1.5_RLS-Online-Estimation) | 1 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/04_Actuator-Labs/A1.5_RLS-Online-Estimation/A1.5_Online_Parameter_Estimation_of_a_DC_Motor_using_RLS.pdf) | [23671549](https://doi.org/10.5281/zenodo.23671549) |
-| **A2** | [DC Motor Cooling Fan](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/04_Actuator-Labs/A2_Cooling-Fan) | 1 hour | — | — |
-
-### [DC Motor Control System Labs](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/05_Control-System-Labs)
-*Hardware: Base + Sense + Actuate*
-
-| Code | Exercise | Time | Sheet | DOI |
-|---|---|---|---|---|
-| **C1.1** | [DC Motor Speed Control Using a PI Controller](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/05_Control-System-Labs/C1.1_PI-Speed-Control) | 1 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/05_Control-System-Labs/C1.1_PI-Speed-Control/C1.1_DC_Motor_Speed_Control_Using_a_PI_Controller.pdf) | [23043611](https://doi.org/10.5281/zenodo.23043611) |
-| **C1.2** | [DC Motor PI Control: Manual Tuning](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/05_Control-System-Labs/C1.2_PI-Manual-Tuning) | 1 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/05_Control-System-Labs/C1.2_PI-Manual-Tuning/C1.2_Manual_Tuning_Discrete_Time_PID_Controller.pdf) | [23245132](https://doi.org/10.5281/zenodo.23245132) |
-| **C1.3** | [DC Motor PI Control: Automatic Optimisation](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/05_Control-System-Labs/C1.3_PI-Automatic-Optimisation) | 1 hour | — | — |
-| **C1.4** | [DC Motor PI Control Design by Pole Placement from an LLS Model](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/05_Control-System-Labs/C1.4_PI-Pole-Placement) | 1 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/05_Control-System-Labs/C1.4_PI-Pole-Placement/C1.4_DC_Motor_PI_Control_Design_by_Pole_Placement_from_an_LLS_Model.pdf) | [23671552](https://doi.org/10.5281/zenodo.23671552) |
-| **C1.5** | [DC Motor Self-Tuning PI Control using Recursive Least Squares](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/05_Control-System-Labs/C1.5_Self-Tuning-PI) | 1 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/05_Control-System-Labs/C1.5_Self-Tuning-PI/C1.5_DC_Motor_Self_Tuning_PI_Control_using_RLS.pdf) | [23671554](https://doi.org/10.5281/zenodo.23671554) |
-| **C1.6** | [DC Motor PI Tuning using Reinforcement Learning](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/05_Control-System-Labs/C1.6_Reinforcement-Learning-PI) | 1 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/05_Control-System-Labs/C1.6_Reinforcement-Learning-PI/C1.6_DC_Motor_PI_Tuning_using_Reinforcement_Learning.pdf) | [23671556](https://doi.org/10.5281/zenodo.23671556) |
-
-## ACE-CORE learning guides
-All learning guide PDFs are in the **[ACE-CORE folder](ACE-CORE)**, sorted by course level, with a table showing which guide goes with which exercise.
-
-## Citing
-Each exercise and learning guide has its own DOI. Please cite the specific resource you use.
+Shared under the [Creative Commons Attribution 4.0 International licence](LICENSE) (CC BY 4.0): you can use and adapt the material, including for teaching, as long as you credit ACE-Lab.
 
 ---
 <p align="center"><b>Visit <a href="https://www.ace-lab.co.uk">www.ace-lab.co.uk</a></b> for the full ACE-Lab learning resources.<br>Developed by Dr James E. Pickering · Harper Adams University &amp; Aston University · Project funding received from MathWorks and EUCA</p>

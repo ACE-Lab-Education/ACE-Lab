@@ -1,11 +1,11 @@
-<p align="center"><a href="https://www.ace-lab.co.uk"><b>🌐 www.ace-lab.co.uk</b></a> &nbsp;·&nbsp; <a href="https://www.ace-lab.co.uk/practical-exercises">Practical Exercises</a> &nbsp;·&nbsp; <a href="https://www.ace-lab.co.uk/ace-core">ACE-CORE</a> &nbsp;·&nbsp; <a href="https://www.ace-lab.co.uk/build-you-own-ace-lab">Get an ACE-Lab</a></p>
+<p align="center"><a href="https://www.ace-lab.co.uk"><b>🌐 www.ace-lab.co.uk</b></a> &nbsp;·&nbsp; <a href="https://www.ace-lab.co.uk/build-you-own-ace-lab">Get an ACE-Lab</a> &nbsp;·&nbsp; <a href="https://www.ace-lab.co.uk/ace-core">ACE-CORE</a> &nbsp;·&nbsp; <a href="https://www.ace-lab.co.uk/practical-exercises">Practical Exercises</a></p>
 
 <h1 align="center">ACE-CORE Learning Guides &amp; ACE-Lab Practical Exercises</h1>
 <p align="center"><b>Practical First. Theory Follows.</b><br>Every ACE-CORE learning guide, ACE-Lab exercise sheet, and MATLAB &amp; Simulink file, on one page.</p>
 
 <p align="center"><img src="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/f_auto,q_auto/22329992/543744_727789.png" alt="ACE-Lab Base + Sense" height="180">&nbsp;&nbsp;<img src="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/f_auto,q_auto/22329992/895721_522242.png" alt="ACE-Lab Actuate" height="180"></p>
 
-<p align="center"><a href="#ace-core-learning-guides"><b>📘 ACE-CORE learning guides</b></a> &nbsp;·&nbsp; <a href="#getting-started">Getting started</a> &nbsp;·&nbsp; <a href="#citing-and-licence">Citing</a></p>
+<p align="center"><a href="#getting-started">Getting started</a> &nbsp;·&nbsp; <a href="#ace-core-learning-guides"><b>📘 ACE-CORE learning guides</b></a> &nbsp;·&nbsp; <a href="#citing-and-licence">Citing</a></p>
 
 ## How ACE-Lab works
 | 1 · Get the hardware | 2 · Learn the theory | 3 · Put it into practice |

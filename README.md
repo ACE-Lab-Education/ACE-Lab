@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.ace-lab.co.uk"><b>🌐 www.ace-lab.co.uk</b></a> &nbsp;·&nbsp; <a href="https://www.ace-lab.co.uk/build-you-own-ace-lab">Get an ACE-Lab</a> &nbsp;·&nbsp; <a href="https://www.ace-lab.co.uk/ace-core">ACE-CORE</a> &nbsp;·&nbsp; <a href="https://www.ace-lab.co.uk/practical-exercises">Practical Exercises</a></p>
+<p align="center"><a href="https://www.ace-lab.co.uk"><b>🌐 www.ace-lab.co.uk</b></a> &nbsp;·&nbsp; <a href="https://www.ace-lab.co.uk/build-you-own-ace-lab">Get an ACE-Lab</a> &nbsp;·&nbsp; <a href="https://www.ace-lab.co.uk/ace-core">ACE-CORE</a> &nbsp;·&nbsp; <a href="https://www.ace-lab.co.uk/practical-exercises">ACE-Lab practical exercises</a></p>
 
 <h1 align="center">ACE-CORE Learning Guides &amp; ACE-Lab Practical Exercises</h1>
 <p align="center"><b>Practical First. Theory Follows.</b><br>Every ACE-CORE learning guide, ACE-Lab exercise sheet, and MATLAB &amp; Simulink file, on one page.</p>
@@ -11,7 +11,7 @@
 | 1 · Get the hardware | 2 · Learn the theory | 3 · Put it into practice |
 |---|---|---|
 | **Base + Sense**: Arduino, breadboard, LEDs, switches and sensors. **Actuate**: DC motor with encoder, servo and cooling fan. | Each **ACE-CORE** guide explains the theory, from first principles to adaptive control, and lists the exercises that support it. | Each **ACE-Lab** exercise has its PDF sheet, DOI, and MATLAB & Simulink files. Run the model on real hardware and see the result. |
-| [Get an ACE-Lab →](https://www.ace-lab.co.uk/build-you-own-ace-lab) | [ACE-CORE learning guides →](https://www.ace-lab.co.uk/ace-core) | [Practical exercises →](https://www.ace-lab.co.uk/practical-exercises) |
+| [Get an ACE-Lab →](https://www.ace-lab.co.uk/build-you-own-ace-lab) | [ACE-CORE learning guides →](https://www.ace-lab.co.uk/ace-core) | [ACE-Lab practical exercises →](https://www.ace-lab.co.uk/practical-exercises) |
 
 ## Getting started
 1. **Download this repository:** click the green **Code** button, then **Download ZIP** (or `git clone https://github.com/ACE-Lab-Education/ACE-Lab.git`).

@@ -24,7 +24,9 @@
 ## ACE-CORE learning guides
 ACE-CORE is the theory behind ACE-Lab: **C**omprehend, **O**perate, **R**efine, **E**ngineer. Click a guide to open it. Most guides also have a short hands-on lab guide, and each lists the ACE-Lab practical exercises that support it, with their exercise sheets.
 
-### Level 1 · Practical Control Engineering
+## 🔵 Level 1 · Practical Control Engineering
+*Understand feedback, run controllers on real ACE-Lab hardware, then tune and assess their performance.*
+
 | Code | ACE-CORE learning guide | Supporting ACE-Lab exercises |
 |---|---|---|
 | <a id="core-c01"></a>**C01** | [Introduction to Control Systems](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/C01_Introduction_to_control_systems.pdf) · [DOI](https://doi.org/10.5281/zenodo.23209659)<br>Lab guide: [C01-L1](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/Lab-Guides/C01_L1_Open_Loop_and_Closed_Loop_Control_under_Load.pdf) · [DOI](https://doi.org/10.5281/zenodo.23725300) | — |
@@ -37,8 +39,10 @@ ACE-CORE is the theory behind ACE-Lab: **C**omprehend, **O**perate, **R**efine, 
 | <a id="core-r01"></a>**R01** | [Discrete-Time Low-Pass Filter Design](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/R01_Learning_guide_discrete_time_low_pass_filter_design.pdf) · [DOI](https://doi.org/10.5281/zenodo.23217095)<br>Lab guide: [R01-L1](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/Lab-Guides/R01_L1_Low_Pass_Filter_Design_for_Ultrasonic_Distance_Measurement.pdf) · [DOI](https://doi.org/10.5281/zenodo.23725316) | **M4** [Temperature Sensor](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/03_Measurement-Labs/M4_Temperature-Sensor) · [Sheet](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/03_Measurement-Labs/M4_Temperature-Sensor/M4_Temperature_Sensor.pdf)<br>**A1.3** [Discrete-Time Low-Pass Filter Design for DC Motor Speed Measurement](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/04_Actuator-Labs/A1.3_Low-Pass-Filter) · [Sheet](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/04_Actuator-Labs/A1.3_Low-Pass-Filter/A1.3_Low_pass_filter_dc_motor.pdf) · [DOI](https://doi.org/10.5281/zenodo.23244891) |
 | <a id="core-r02"></a>**R02** | [Manual Tuning of a PID Controller](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/R02_Learning_guide_manual_tuning_pid_controller.pdf) · [DOI](https://doi.org/10.5281/zenodo.23219490)<br>Lab guide: [R02-L1](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/Lab-Guides/R02_L1_Manual_PID_Tuning_of_DC_Motor_Angle_Control.pdf) · [DOI](https://doi.org/10.5281/zenodo.23725318) | **C1.2** [DC Motor PI Control: Manual Tuning](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/05_Control-System-Labs/C1.2_PI-Manual-Tuning) · [Sheet](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/05_Control-System-Labs/C1.2_PI-Manual-Tuning/C1.2_Manual_Tuning_Discrete_Time_PID_Controller.pdf) · [DOI](https://doi.org/10.5281/zenodo.23245132) |
 
-### Level 2 · Model-Based Design
-**Mathematical Foundations**
+## 🟠 Level 2 · Model-Based Design
+*Model the system, design from the underlying mathematics and verify in simulation before running on hardware.*
+
+### Mathematical Foundations
 
 | Code | ACE-CORE learning guide | Supporting ACE-Lab exercises |
 |---|---|---|
@@ -48,14 +52,14 @@ ACE-CORE is the theory behind ACE-Lab: **C**omprehend, **O**perate, **R**efine, 
 | <a id="core-e04"></a>**E04** | [Inverse Laplace Transform](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/E04_Inverse_Laplace_Transform.pdf) · [DOI](https://doi.org/10.5281/zenodo.23301865)<br>Lab guide: [E04-L1](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/Lab-Guides/E04_L1_Inverse_Laplace_Transform_Two_Stage_RC_Network.pdf) · [DOI](https://doi.org/10.5281/zenodo.23725326) | — |
 | <a id="core-e05"></a>**E05** | [Discrete-Time Modelling](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/E05_Discrete_Time_Modelling.pdf) · [DOI](https://doi.org/10.5281/zenodo.23325170)<br>Lab guide: [E05-L1](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/Lab-Guides/E05_L1_Discrete_Time_Modelling_of_a_DC_Motor.pdf) · [DOI](https://doi.org/10.5281/zenodo.23725328) | **A1.3** [Discrete-Time Low-Pass Filter Design for DC Motor Speed Measurement](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/04_Actuator-Labs/A1.3_Low-Pass-Filter) · [Sheet](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/04_Actuator-Labs/A1.3_Low-Pass-Filter/A1.3_Low_pass_filter_dc_motor.pdf) · [DOI](https://doi.org/10.5281/zenodo.23244891) |
 
-**System Identification**
+### System Identification
 
 | Code | ACE-CORE learning guide | Supporting ACE-Lab exercises |
 |---|---|---|
 | <a id="core-e06"></a>**E06** | [Linear Least Squares for Parameter Estimation](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/E06_Linear_Least_Squares.pdf) · [DOI](https://doi.org/10.5281/zenodo.23568450)<br>Lab guide: [E06-L1](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/Lab-Guides/E06_L1_Least_Squares_Identification_of_an_LED_and_LDR.pdf) · [DOI](https://doi.org/10.5281/zenodo.23725330) | **A1.4** [Parameter Estimation of a DC Motor using Linear Least Squares](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/04_Actuator-Labs/A1.4_LLS-Parameter-Estimation) · [Sheet](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/04_Actuator-Labs/A1.4_LLS-Parameter-Estimation/A1.4_Parameter_Estimation_of_a_DC_Motor_using_LLS.pdf) · [DOI](https://doi.org/10.5281/zenodo.23568474)<br>**C1.4** [DC Motor PI Control Design by Pole Placement from an LLS Model](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/05_Control-System-Labs/C1.4_PI-Pole-Placement) · [Sheet](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/05_Control-System-Labs/C1.4_PI-Pole-Placement/C1.4_DC_Motor_PI_Control_Design_by_Pole_Placement_from_an_LLS_Model.pdf) · [DOI](https://doi.org/10.5281/zenodo.23671552) |
 | <a id="core-e14"></a>**E14** | [Recursive Least Squares for Online Parameter Estimation](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/E14_Recursive_Least_Squares_for_Online_Parameter_Estimation.pdf) · [DOI](https://doi.org/10.5281/zenodo.23671518) | **A1.5** [Online Parameter Estimation of a DC Motor using Recursive Least Squares](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/04_Actuator-Labs/A1.5_RLS-Online-Estimation) · [Sheet](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/04_Actuator-Labs/A1.5_RLS-Online-Estimation/A1.5_Online_Parameter_Estimation_of_a_DC_Motor_using_RLS.pdf) · [DOI](https://doi.org/10.5281/zenodo.23671549)<br>**C1.5** [DC Motor Self-Tuning PI Control using Recursive Least Squares](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/05_Control-System-Labs/C1.5_Self-Tuning-PI) · [Sheet](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/05_Control-System-Labs/C1.5_Self-Tuning-PI/C1.5_DC_Motor_Self_Tuning_PI_Control_using_RLS.pdf) · [DOI](https://doi.org/10.5281/zenodo.23671554) |
 
-**Continuous-Time Performance and Stability**
+### Continuous-Time Performance and Stability
 
 | Code | ACE-CORE learning guide | Supporting ACE-Lab exercises |
 |---|---|---|
@@ -65,39 +69,28 @@ ACE-CORE is the theory behind ACE-Lab: **C**omprehend, **O**perate, **R**efine, 
 | <a id="core-e10"></a>**E10** | [Stability and the Routh-Hurwitz Stability Criterion](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/E10_Stability_and_the_Routh_Hurwitz_Stability_Criterion.pdf) · [DOI](https://doi.org/10.5281/zenodo.23511336)<br>Lab guide: [E10-L1](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/Lab-Guides/E10_L1_Routh_Hurwitz_Finding_the_Critical_Gain.pdf) · [DOI](https://doi.org/10.5281/zenodo.23725338) | — |
 | <a id="core-e11"></a>**E11** | [Proportional Control Design using Root Locus](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/E11_Proportional_Control_Design_using_Root_Locus.pdf) · [DOI](https://doi.org/10.5281/zenodo.23511338)<br>Lab guide: [E11-L1](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/Lab-Guides/E11_L1_Root_Locus_Designing_a_Gain_for_a_Damping_Target.pdf) · [DOI](https://doi.org/10.5281/zenodo.23725340) | — |
 
-**Discrete-Time Performance and Stability**
+### Discrete-Time Performance and Stability
 
 | Code | ACE-CORE learning guide | Supporting ACE-Lab exercises |
 |---|---|---|
 | <a id="core-e12"></a>**E12** | [The z-Plane: Stability, Performance and the Jury Test](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/E12_The_z_Plane_Stability_Performance_and_the_Jury_Test.pdf) · [DOI](https://doi.org/10.5281/zenodo.23511340)<br>Lab guide: [E12-L1](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/Lab-Guides/E12_L1_The_z_Plane_and_the_Jury_Test_Instability_from_Slow_Sampling.pdf) · [DOI](https://doi.org/10.5281/zenodo.23725343) | — |
 | <a id="core-e13"></a>**E13** | [Proportional Control Design using Root Locus on the z-Plane](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/E13_Proportional_Control_Design_using_Root_Locus_on_the_z_Plane.pdf) · [DOI](https://doi.org/10.5281/zenodo.23511342)<br>Lab guide: [E13-L1](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/Lab-Guides/E13_L1_Root_Locus_on_the_z_Plane_Discrete_P_Design_for_Angle_Control.pdf) · [DOI](https://doi.org/10.5281/zenodo.23725346) | — |
 
-**Control System Design**
+### Control System Design
 
 | Code | ACE-CORE learning guide | Supporting ACE-Lab exercises |
 |---|---|---|
 | <a id="core-e15"></a>**E15** | [PI Control Design by Pole Placement](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/E15_PI_Control_Design_by_Pole_Placement.pdf) · [DOI](https://doi.org/10.5281/zenodo.23671543) | **C1.4** [DC Motor PI Control Design by Pole Placement from an LLS Model](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/05_Control-System-Labs/C1.4_PI-Pole-Placement) · [Sheet](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/05_Control-System-Labs/C1.4_PI-Pole-Placement/C1.4_DC_Motor_PI_Control_Design_by_Pole_Placement_from_an_LLS_Model.pdf) · [DOI](https://doi.org/10.5281/zenodo.23671552) |
 
-### Level 3 · Online Control Methods
+## 🟣 Level 3 · Online Control Methods
+*Controllers that learn as they run: self-tuning adaptive control and reinforcement learning.*
+
 | Code | ACE-CORE learning guide | Supporting ACE-Lab exercises |
 |---|---|---|
 | <a id="core-e16"></a>**E16** | [Adaptive Control: the Self-Tuning PI Controller](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-3_Online-Control-Methods/E16_Adaptive_Control_the_Self_Tuning_PI_Controller.pdf) · [DOI](https://doi.org/10.5281/zenodo.23671545) | **C1.5** [DC Motor Self-Tuning PI Control using Recursive Least Squares](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/05_Control-System-Labs/C1.5_Self-Tuning-PI) · [Sheet](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/05_Control-System-Labs/C1.5_Self-Tuning-PI/C1.5_DC_Motor_Self_Tuning_PI_Control_using_RLS.pdf) · [DOI](https://doi.org/10.5281/zenodo.23671554) |
 | <a id="core-e17"></a>**E17** | [Reinforcement Learning for PI Controller Tuning](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-3_Online-Control-Methods/E17_Reinforcement_Learning_for_PI_Controller_Tuning.pdf) · [DOI](https://doi.org/10.5281/zenodo.23671547) | **C1.6** [DC Motor PI Tuning using Reinforcement Learning](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/05_Control-System-Labs/C1.6_Reinforcement-Learning-PI) · [Sheet](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/05_Control-System-Labs/C1.6_Reinforcement-Learning-PI/C1.6_DC_Motor_PI_Tuning_using_Reinforcement_Learning.pdf) · [DOI](https://doi.org/10.5281/zenodo.23671556) |
 
 All guide PDFs are also in the **[ACE-CORE folder](ACE-CORE)**, sorted by course level.
-
-## Repository structure
-```
-ACE-Lab/
-├── 01_Getting-Started/        G1–G3   (software setup, MATLAB & Simulink Onramps)
-├── 02_Preliminary-Labs/       P1–P4   (Base + Sense)
-├── 03_Measurement-Labs/       M1–M4   (Base + Sense)
-├── 04_Actuator-Labs/          A1.1–A2 (Base + Sense + Actuate)
-├── 05_Control-System-Labs/    C1.1–C1.6 (Base + Sense + Actuate)
-├── ACE-CORE/                  learning guide and lab guide PDFs, by course level
-└── Code_DC-Motor/             MATLAB & Simulink files for the DC motor labs (A1.4–A1.5, C1.4–C1.6)
-```
-Every exercise folder contains a `README.md`, the exercise sheet PDF, a `matlab/` folder and a `simulink/` folder.
 
 ## Citing and licence
 Each exercise, learning guide and lab guide has its own DOI on Zenodo. Please cite the specific resource you use.

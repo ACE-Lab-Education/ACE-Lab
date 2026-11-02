@@ -11,6 +11,7 @@ Build and deploy a simple Simulink model that switches an LED on and off using a
 | | |
 |---|---|
 | 📄 Exercise sheet (PDF) | [P1_LED_Digital_Exercise.pdf](P1_LED_Digital_Exercise.pdf) |
+| 🔖 DOI | [10.5281/zenodo.23098135](https://doi.org/10.5281/zenodo.23098135) |
 | 🌐 Website | [ace-lab.co.uk/practical-exercises](https://www.ace-lab.co.uk/practical-exercises) |
 
 ## Theory behind this lab (ACE-CORE)
@@ -23,6 +24,12 @@ Build and deploy a simple Simulink model that switches an LED on and off using a
 |---|---|
 | [`matlab/`](matlab) | MATLAB scripts and live scripts (`.m`, `.mlx`) |
 | [`simulink/`](simulink) | Simulink models (`.slx`) to run on the ACE-Lab hardware |
+
+## Cite this exercise
+
+```
+Pickering, J. E. (2026). LED (Digital) Exercise. ACE-Lab Teaching Notes: ACE-Lab Practical Exercises. Zenodo. https://doi.org/10.5281/zenodo.23098135
+```
 
 [← All exercises](../../README.md)
 

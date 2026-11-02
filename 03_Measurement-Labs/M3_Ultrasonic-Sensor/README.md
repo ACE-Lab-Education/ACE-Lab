@@ -11,6 +11,7 @@ Measure distance using an ultrasonic sensor and interpret the resulting signal i
 | | |
 |---|---|
 | 📄 Exercise sheet (PDF) | [M3_Ultrasonic_Sensor.pdf](M3_Ultrasonic_Sensor.pdf) |
+| 🔖 DOI | [10.5281/zenodo.23885016](https://doi.org/10.5281/zenodo.23885016) |
 | 🌐 Website | [ace-lab.co.uk/practical-exercises](https://www.ace-lab.co.uk/practical-exercises) |
 
 ## Theory behind this lab (ACE-CORE)
@@ -23,6 +24,12 @@ Measure distance using an ultrasonic sensor and interpret the resulting signal i
 |---|---|
 | [`matlab/`](matlab) | MATLAB scripts and live scripts (`.m`, `.mlx`) |
 | [`simulink/`](simulink) | Simulink models (`.slx`) to run on the ACE-Lab hardware |
+
+## Cite this exercise
+
+```
+Pickering, J. E. (2026). Ultrasonic Sensor Exercise. ACE-Lab Teaching Notes: ACE-Lab Practical Exercises. Zenodo. https://doi.org/10.5281/zenodo.23885016
+```
 
 [← All exercises](../../README.md)
 

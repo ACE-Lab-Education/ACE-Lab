@@ -11,11 +11,12 @@ Control DC motor direction safely by switching polarity using the ACE-Lab actuat
 | | |
 |---|---|
 | 📄 Exercise sheet (PDF) | [A1.1_DC_motor_polarity_control.pdf](A1.1_DC_motor_polarity_control.pdf) |
+| 🔖 DOI | [10.5281/zenodo.23885021](https://doi.org/10.5281/zenodo.23885021) |
 | 🌐 Website | [ace-lab.co.uk/practical-exercises](https://www.ace-lab.co.uk/practical-exercises) |
 
 ## Theory behind this lab (ACE-CORE)
 
-- [O03 DC Motor Actuators](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/O03_DC_Motor_Actuators.pdf)
+- [O03 DC Motor Actuators](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/O03_DC_Motor_Actuators.pdf) ([DOI](https://doi.org/10.5281/zenodo.23338755))
 
 ## Files
 
@@ -23,6 +24,12 @@ Control DC motor direction safely by switching polarity using the ACE-Lab actuat
 |---|---|
 | [`matlab/`](matlab) | MATLAB scripts and live scripts (`.m`, `.mlx`) |
 | [`simulink/`](simulink) | Simulink models (`.slx`) to run on the ACE-Lab hardware |
+
+## Cite this exercise
+
+```
+Pickering, J. E. (2026). DC Motor Polarity Control. ACE-Lab Teaching Notes: ACE-Lab Practical Exercises. Zenodo. https://doi.org/10.5281/zenodo.23885021
+```
 
 [← All exercises](../../README.md)
 

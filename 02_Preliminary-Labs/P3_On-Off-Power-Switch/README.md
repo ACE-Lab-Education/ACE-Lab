@@ -11,6 +11,7 @@ Read a simple on/off switch state and use it as a clean digital input within a S
 | | |
 |---|---|
 | 📄 Exercise sheet (PDF) | [P3_On_Off_Power_Switch.pdf](P3_On_Off_Power_Switch.pdf) |
+| 🔖 DOI | [10.5281/zenodo.23884991](https://doi.org/10.5281/zenodo.23884991) |
 | 🌐 Website | [ace-lab.co.uk/practical-exercises](https://www.ace-lab.co.uk/practical-exercises) |
 
 ## Theory behind this lab (ACE-CORE)
@@ -23,6 +24,12 @@ Read a simple on/off switch state and use it as a clean digital input within a S
 |---|---|
 | [`matlab/`](matlab) | MATLAB scripts and live scripts (`.m`, `.mlx`) |
 | [`simulink/`](simulink) | Simulink models (`.slx`) to run on the ACE-Lab hardware |
+
+## Cite this exercise
+
+```
+Pickering, J. E. (2026). On/Off Power Switch Exercise. ACE-Lab Teaching Notes: ACE-Lab Practical Exercises. Zenodo. https://doi.org/10.5281/zenodo.23884991
+```
 
 [← All exercises](../../README.md)
 

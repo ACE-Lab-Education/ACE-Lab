@@ -5,10 +5,10 @@
 
 | Code | Exercise | Time | Sheet | DOI |
 |---|---|---|---|---|
-| **P1** | [LED (Digital)](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/02_Preliminary-Labs/P1_LED-Digital) | 0.5 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/02_Preliminary-Labs/P1_LED-Digital/P1_LED_Digital_Exercise.pdf) | — |
-| **P2** | [LED (PWM)](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/02_Preliminary-Labs/P2_LED-PWM) | 0.5 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/02_Preliminary-Labs/P2_LED-PWM/P2_LED_PWM_Exercise.pdf) | — |
-| **P3** | [On/Off Power Switch](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/02_Preliminary-Labs/P3_On-Off-Power-Switch) | 0.5 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/02_Preliminary-Labs/P3_On-Off-Power-Switch/P3_On_Off_Power_Switch.pdf) | — |
-| **P4** | [Tactile Button Switch](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/02_Preliminary-Labs/P4_Tactile-Button-Switch) | 0.5 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/02_Preliminary-Labs/P4_Tactile-Button-Switch/P4_Tactile_Button_Switch.pdf) | — |
+| **P1** | [LED (Digital)](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/02_Preliminary-Labs/P1_LED-Digital) | 0.5 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/02_Preliminary-Labs/P1_LED-Digital/P1_LED_Digital_Exercise.pdf) | [23098135](https://doi.org/10.5281/zenodo.23098135) |
+| **P2** | [LED (PWM)](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/02_Preliminary-Labs/P2_LED-PWM) | 0.5 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/02_Preliminary-Labs/P2_LED-PWM/P2_LED_PWM_Exercise.pdf) | [23098233](https://doi.org/10.5281/zenodo.23098233) |
+| **P3** | [On/Off Power Switch](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/02_Preliminary-Labs/P3_On-Off-Power-Switch) | 0.5 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/02_Preliminary-Labs/P3_On-Off-Power-Switch/P3_On_Off_Power_Switch.pdf) | [23884991](https://doi.org/10.5281/zenodo.23884991) |
+| **P4** | [Tactile Button Switch](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/02_Preliminary-Labs/P4_Tactile-Button-Switch) | 0.5 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/02_Preliminary-Labs/P4_Tactile-Button-Switch/P4_Tactile_Button_Switch.pdf) | [23885010](https://doi.org/10.5281/zenodo.23885010) |
 
 [← All exercises](../README.md)
 

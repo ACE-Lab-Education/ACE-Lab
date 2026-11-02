@@ -11,6 +11,7 @@ Use PWM from Simulink to vary LED brightness and explore analogue-like actuation
 | | |
 |---|---|
 | 📄 Exercise sheet (PDF) | [P2_LED_PWM_Exercise.pdf](P2_LED_PWM_Exercise.pdf) |
+| 🔖 DOI | [10.5281/zenodo.23098233](https://doi.org/10.5281/zenodo.23098233) |
 | 🌐 Website | [ace-lab.co.uk/practical-exercises](https://www.ace-lab.co.uk/practical-exercises) |
 
 ## Theory behind this lab (ACE-CORE)
@@ -23,6 +24,12 @@ Use PWM from Simulink to vary LED brightness and explore analogue-like actuation
 |---|---|
 | [`matlab/`](matlab) | MATLAB scripts and live scripts (`.m`, `.mlx`) |
 | [`simulink/`](simulink) | Simulink models (`.slx`) to run on the ACE-Lab hardware |
+
+## Cite this exercise
+
+```
+Pickering, J. E. (2026). LED (PWM) Exercise. ACE-Lab Teaching Notes: ACE-Lab Practical Exercises. Zenodo. https://doi.org/10.5281/zenodo.23098233
+```
 
 [← All exercises](../../README.md)
 

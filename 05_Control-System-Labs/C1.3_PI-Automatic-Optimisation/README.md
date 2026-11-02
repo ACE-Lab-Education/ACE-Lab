@@ -10,6 +10,8 @@ Use optimisation to find PI gains that automatically meet defined DC motor speed
 
 | | |
 |---|---|
+| 📄 Exercise sheet (PDF) | [C1.3_DC_Motor_PI_Control_Automatic_Optimisation.pdf](C1.3_DC_Motor_PI_Control_Automatic_Optimisation.pdf) |
+| 🔖 DOI | [10.5281/zenodo.23675491](https://doi.org/10.5281/zenodo.23675491) |
 | 🌐 Website | [ace-lab.co.uk/practical-exercises](https://www.ace-lab.co.uk/practical-exercises) |
 
 ## Theory behind this lab (ACE-CORE)
@@ -23,6 +25,12 @@ Use optimisation to find PI gains that automatically meet defined DC motor speed
 |---|---|
 | [`matlab/`](matlab) | MATLAB scripts and live scripts (`.m`, `.mlx`) |
 | [`simulink/`](simulink) | Simulink models (`.slx`) to run on the ACE-Lab hardware |
+
+## Cite this exercise
+
+```
+Pickering, J. E. (2026). DC Motor PI Control: Automatic Optimisation. ACE-Lab Teaching Notes: ACE-Lab Practical Exercises. Zenodo. https://doi.org/10.5281/zenodo.23675491
+```
 
 [← All exercises](../../README.md)
 

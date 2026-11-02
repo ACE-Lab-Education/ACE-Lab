@@ -11,6 +11,7 @@ Measure temperature using a TMP36 sensor and investigate filtering and signal co
 | | |
 |---|---|
 | 📄 Exercise sheet (PDF) | [M4_Temperature_Sensor.pdf](M4_Temperature_Sensor.pdf) |
+| 🔖 DOI | [10.5281/zenodo.23885018](https://doi.org/10.5281/zenodo.23885018) |
 | 🌐 Website | [ace-lab.co.uk/practical-exercises](https://www.ace-lab.co.uk/practical-exercises) |
 
 ## Theory behind this lab (ACE-CORE)
@@ -24,6 +25,12 @@ Measure temperature using a TMP36 sensor and investigate filtering and signal co
 |---|---|
 | [`matlab/`](matlab) | MATLAB scripts and live scripts (`.m`, `.mlx`) |
 | [`simulink/`](simulink) | Simulink models (`.slx`) to run on the ACE-Lab hardware |
+
+## Cite this exercise
+
+```
+Pickering, J. E. (2026). Temperature Sensor Exercise. ACE-Lab Teaching Notes: ACE-Lab Practical Exercises. Zenodo. https://doi.org/10.5281/zenodo.23885018
+```
 
 [← All exercises](../../README.md)
 

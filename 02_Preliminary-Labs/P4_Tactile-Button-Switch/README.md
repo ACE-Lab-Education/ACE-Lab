@@ -11,6 +11,7 @@ Read a tactile push-button input and explore practical digital input behaviour i
 | | |
 |---|---|
 | 📄 Exercise sheet (PDF) | [P4_Tactile_Button_Switch.pdf](P4_Tactile_Button_Switch.pdf) |
+| 🔖 DOI | [10.5281/zenodo.23885010](https://doi.org/10.5281/zenodo.23885010) |
 | 🌐 Website | [ace-lab.co.uk/practical-exercises](https://www.ace-lab.co.uk/practical-exercises) |
 
 ## Theory behind this lab (ACE-CORE)
@@ -23,6 +24,12 @@ Read a tactile push-button input and explore practical digital input behaviour i
 |---|---|
 | [`matlab/`](matlab) | MATLAB scripts and live scripts (`.m`, `.mlx`) |
 | [`simulink/`](simulink) | Simulink models (`.slx`) to run on the ACE-Lab hardware |
+
+## Cite this exercise
+
+```
+Pickering, J. E. (2026). Tactile Button Switch Exercise. ACE-Lab Teaching Notes: ACE-Lab Practical Exercises. Zenodo. https://doi.org/10.5281/zenodo.23885010
+```
 
 [← All exercises](../../README.md)
 

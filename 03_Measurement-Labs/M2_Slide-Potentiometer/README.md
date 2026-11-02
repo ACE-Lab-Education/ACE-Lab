@@ -11,6 +11,7 @@ Measure an analogue position signal using a slide potentiometer and visualise it
 | | |
 |---|---|
 | 📄 Exercise sheet (PDF) | [M2_Slide_Potentiometer.pdf](M2_Slide_Potentiometer.pdf) |
+| 🔖 DOI | [10.5281/zenodo.23885014](https://doi.org/10.5281/zenodo.23885014) |
 | 🌐 Website | [ace-lab.co.uk/practical-exercises](https://www.ace-lab.co.uk/practical-exercises) |
 
 ## Theory behind this lab (ACE-CORE)
@@ -23,6 +24,12 @@ Measure an analogue position signal using a slide potentiometer and visualise it
 |---|---|
 | [`matlab/`](matlab) | MATLAB scripts and live scripts (`.m`, `.mlx`) |
 | [`simulink/`](simulink) | Simulink models (`.slx`) to run on the ACE-Lab hardware |
+
+## Cite this exercise
+
+```
+Pickering, J. E. (2026). Slide Potentiometer Exercise. ACE-Lab Teaching Notes: ACE-Lab Practical Exercises. Zenodo. https://doi.org/10.5281/zenodo.23885014
+```
 
 [← All exercises](../../README.md)
 

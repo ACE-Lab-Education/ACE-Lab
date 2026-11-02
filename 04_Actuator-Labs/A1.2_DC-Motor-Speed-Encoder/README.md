@@ -17,7 +17,7 @@ Measure DC motor speed from encoder feedback, calculate RPM, and validate sampli
 ## Theory behind this lab (ACE-CORE)
 
 - [O02 Microcontroller-Based Measurement for Control Systems](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/O02_Microcontroller_Based_Measurement.pdf) ([DOI](https://doi.org/10.5281/zenodo.23337635))
-- [O03 DC Motor Actuators](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/O03_DC_Motor_Actuators.pdf)
+- [O03 DC Motor Actuators](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/O03_DC_Motor_Actuators.pdf) ([DOI](https://doi.org/10.5281/zenodo.23338755))
 
 ## Files
 

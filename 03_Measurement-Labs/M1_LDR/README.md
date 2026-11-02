@@ -11,6 +11,7 @@ Measure changing light levels using an LDR and bring the sensor signal into Simu
 | | |
 |---|---|
 | 📄 Exercise sheet (PDF) | [M1_LDR_Light_Dependent_Resistor.pdf](M1_LDR_Light_Dependent_Resistor.pdf) |
+| 🔖 DOI | [10.5281/zenodo.23885012](https://doi.org/10.5281/zenodo.23885012) |
 | 🌐 Website | [ace-lab.co.uk/practical-exercises](https://www.ace-lab.co.uk/practical-exercises) |
 
 ## Theory behind this lab (ACE-CORE)
@@ -23,6 +24,12 @@ Measure changing light levels using an LDR and bring the sensor signal into Simu
 |---|---|
 | [`matlab/`](matlab) | MATLAB scripts and live scripts (`.m`, `.mlx`) |
 | [`simulink/`](simulink) | Simulink models (`.slx`) to run on the ACE-Lab hardware |
+
+## Cite this exercise
+
+```
+Pickering, J. E. (2026). LDR (Light Dependent Resistor) Exercise. ACE-Lab Teaching Notes: ACE-Lab Practical Exercises. Zenodo. https://doi.org/10.5281/zenodo.23885012
+```
 
 [← All exercises](../../README.md)
 

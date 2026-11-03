@@ -3,11 +3,11 @@
 # Getting Started
 *Hardware: ACE-Lab Base + Sense*
 
-| Code | Exercise | Time | Sheet | DOI |
-|---|---|---|---|---|
-| **G1** | [Install MATLAB, Simulink and Code Generation](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/01_Getting-Started/G1_Install-MATLAB-Simulink) | 1 hour | — | — |
-| **G2** | [MATLAB Onramp](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/01_Getting-Started/G2_MATLAB-Onramp) | 2 hours | [Course](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) | — |
-| **G3** | [Simulink Onramp](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/01_Getting-Started/G3_Simulink-Onramp) | 2 hours | [Course](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink) | — |
+| Code | Exercise | Time | Sheet |
+|---|---|---|---|
+| **G1** | [Install MATLAB, Simulink and Code Generation](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/01_Getting-Started/G1_Install-MATLAB-Simulink) | 1 hour | — |
+| **G2** | [MATLAB Onramp](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/01_Getting-Started/G2_MATLAB-Onramp) | 2 hours | [Course](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) |
+| **G3** | [Simulink Onramp](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/01_Getting-Started/G3_Simulink-Onramp) | 2 hours | [Course](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink) |
 
 [← All exercises](../README.md)
 

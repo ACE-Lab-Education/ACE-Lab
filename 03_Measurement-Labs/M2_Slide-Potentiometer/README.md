@@ -28,8 +28,6 @@ The same files are also in the [`simulink/`](simulink) folder here.
 Pickering, J. E. (2026). Slide Potentiometer Exercise. ACE-Lab Teaching Notes: ACE-Lab Practical Exercises. Zenodo. https://doi.org/10.5281/zenodo.23885014
 ```
 
-DOI: [10.5281/zenodo.23885014](https://doi.org/10.5281/zenodo.23885014)
-
 [View on the ACE-Lab website](https://www.ace-lab.co.uk/practical-exercises#lab-m2) · [← All exercises](../../README.md)
 
 ---

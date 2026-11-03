@@ -24,8 +24,6 @@ The files for this exercise are in [`Code_DC-Motor/SelfTuningPI`](https://github
 Pickering, J. E. (2026). DC Motor Self-Tuning PI Control using Recursive Least Squares. ACE-Lab Teaching Notes: ACE-Lab Practical Exercises. Zenodo. https://doi.org/10.5281/zenodo.23671554
 ```
 
-DOI: [10.5281/zenodo.23671554](https://doi.org/10.5281/zenodo.23671554)
-
 [View on the ACE-Lab website](https://www.ace-lab.co.uk/practical-exercises#lab-c15) · [← All exercises](../../README.md)
 
 ---

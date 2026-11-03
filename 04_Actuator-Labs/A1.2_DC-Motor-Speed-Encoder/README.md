@@ -28,8 +28,6 @@ The same files are also in the [`simulink/`](simulink) folder here.
 Pickering, J. E. (2026). DC Motor Speed Measurement using an Encoder. ACE-Lab Teaching Notes: ACE-Lab Practical Exercises. Zenodo. https://doi.org/10.5281/zenodo.23019221
 ```
 
-DOI: [10.5281/zenodo.23019221](https://doi.org/10.5281/zenodo.23019221)
-
 [View on the ACE-Lab website](https://www.ace-lab.co.uk/practical-exercises#lab-a12) · [← All exercises](../../README.md)
 
 ---

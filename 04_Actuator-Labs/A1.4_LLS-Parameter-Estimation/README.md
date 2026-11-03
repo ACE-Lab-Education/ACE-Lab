@@ -24,8 +24,6 @@ The files for this exercise are in [`Code_DC-Motor`](https://github.com/ACE-Lab-
 Pickering, J. E. (2026). Parameter Estimation of a DC Motor using Linear Least Squares. ACE-Lab Teaching Notes: ACE-Lab Practical Exercises. Zenodo. https://doi.org/10.5281/zenodo.23568474
 ```
 
-DOI: [10.5281/zenodo.23568474](https://doi.org/10.5281/zenodo.23568474)
-
 [View on the ACE-Lab website](https://www.ace-lab.co.uk/practical-exercises#lab-a14) · [← All exercises](../../README.md)
 
 ---

@@ -28,8 +28,6 @@ The same files are also in the [`simulink/`](simulink) folder here.
 Pickering, J. E. (2026). On/Off Power Switch Exercise. ACE-Lab Teaching Notes: ACE-Lab Practical Exercises. Zenodo. https://doi.org/10.5281/zenodo.23884991
 ```
 
-DOI: [10.5281/zenodo.23884991](https://doi.org/10.5281/zenodo.23884991)
-
 [View on the ACE-Lab website](https://www.ace-lab.co.uk/practical-exercises#lab-p3) · [← All exercises](../../README.md)
 
 ---

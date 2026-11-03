@@ -28,8 +28,6 @@ The same files are also in the [`simulink/`](simulink) folder here.
 Pickering, J. E. (2026). DC Motor Polarity Control. ACE-Lab Teaching Notes: ACE-Lab Practical Exercises. Zenodo. https://doi.org/10.5281/zenodo.23885021
 ```
 
-DOI: [10.5281/zenodo.23885021](https://doi.org/10.5281/zenodo.23885021)
-
 [View on the ACE-Lab website](https://www.ace-lab.co.uk/practical-exercises#lab-a11) · [← All exercises](../../README.md)
 
 ---

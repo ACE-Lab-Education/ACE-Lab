@@ -28,8 +28,6 @@ The same files are also in the [`simulink/`](simulink) folder here.
 Pickering, J. E. (2026). LDR (Light Dependent Resistor) Exercise. ACE-Lab Teaching Notes: ACE-Lab Practical Exercises. Zenodo. https://doi.org/10.5281/zenodo.23885012
 ```
 
-DOI: [10.5281/zenodo.23885012](https://doi.org/10.5281/zenodo.23885012)
-
 [View on the ACE-Lab website](https://www.ace-lab.co.uk/practical-exercises#lab-m1) · [← All exercises](../../README.md)
 
 ---

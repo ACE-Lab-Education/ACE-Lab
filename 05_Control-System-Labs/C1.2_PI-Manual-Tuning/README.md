@@ -2,37 +2,31 @@
 
 # C1.2 · DC Motor PI Control: Manual Tuning
 
-> **DC Motor Control System Labs** · ⏱ 1 hour · 🧰 Hardware: ACE-Lab Base + Sense + Actuate
+**DC Motor Control System Labs** · ⏱ 1 hour · 🧰 Hardware: ACE-Lab Base + Sense + Actuate
 
 Manually tune the proportional and integral gains and see how each affects motor speed-control performance.
 
-## Resources
+### ▶️ See it in action
 
-| | |
-|---|---|
-| 📄 Exercise sheet (PDF) | [C1.2_Manual_Tuning_Discrete_Time_PID_Controller.pdf](C1.2_Manual_Tuning_Discrete_Time_PID_Controller.pdf) |
-| 🔖 DOI | [10.5281/zenodo.23245132](https://doi.org/10.5281/zenodo.23245132) |
-| 🌐 Website | [ace-lab.co.uk/practical-exercises](https://www.ace-lab.co.uk/practical-exercises) |
+Demo video coming soon.
 
-## Theory behind this lab (ACE-CORE)
+### 📄 Lab guide
 
-- [R02 Manual Tuning of a PID Controller](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/R02_Learning_guide_manual_tuning_pid_controller.pdf) ([DOI](https://doi.org/10.5281/zenodo.23219490))
-- [O04 Discrete-Time PID Control](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/O04_Learning_guide_discrete_time_pid_control.pdf) ([DOI](https://doi.org/10.5281/zenodo.23086025))
+[Open the C1.2 lab guide (PDF)](https://uploads.strikinglycdn.com/files/a1e3d096-73de-4c21-95a5-e6a42baff69c/Manual_Tuning_Discrete_Time_PID_Controller.pdf?t=1791536585&id=4429611)
 
-## Files
+### 💾 MATLAB & Simulink files
 
-| Folder | Contents |
-|---|---|
-| [`matlab/`](matlab) | MATLAB scripts and live scripts (`.m`, `.mlx`) |
-| [`simulink/`](simulink) | Simulink models (`.slx`) to run on the ACE-Lab hardware |
+Files coming soon.
 
-## Cite this exercise
+### 🔖 Cite this exercise
 
 ```
 Pickering, J. E. (2026). DC Motor PI Control: Manual Tuning. ACE-Lab Teaching Notes: ACE-Lab Practical Exercises. Zenodo. https://doi.org/10.5281/zenodo.23245132
 ```
 
-[← All exercises](../../README.md)
+DOI: [10.5281/zenodo.23245132](https://doi.org/10.5281/zenodo.23245132)
+
+[View on the ACE-Lab website](https://www.ace-lab.co.uk/practical-exercises#lab-c12) · [← All exercises](../../README.md)
 
 ---
 <p align="center"><b>Visit <a href="https://www.ace-lab.co.uk">www.ace-lab.co.uk</a></b> for the full ACE-Lab learning resources.<br>Developed by Dr James E. Pickering · Harper Adams University &amp; Aston University · Project funding received from MathWorks and EUCA</p>

@@ -24,8 +24,6 @@ The files for this exercise are in [`Code_DC-Motor`](https://github.com/ACE-Lab-
 Pickering, J. E. (2026). Online Parameter Estimation of a DC Motor using Recursive Least Squares. ACE-Lab Teaching Notes: ACE-Lab Practical Exercises. Zenodo. https://doi.org/10.5281/zenodo.23671549
 ```
 
-DOI: [10.5281/zenodo.23671549](https://doi.org/10.5281/zenodo.23671549)
-
 [View on the ACE-Lab website](https://www.ace-lab.co.uk/practical-exercises#lab-a15) · [← All exercises](../../README.md)
 
 ---

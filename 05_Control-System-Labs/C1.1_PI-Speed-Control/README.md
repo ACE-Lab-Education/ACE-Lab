@@ -26,8 +26,6 @@ The same files are also in the [`simulink/`](simulink) folder here.
 Pickering, J. E. (2026). DC Motor Speed Control Using a PI Controller. ACE-Lab Teaching Notes: ACE-Lab Practical Exercises. Zenodo. https://doi.org/10.5281/zenodo.23043611
 ```
 
-DOI: [10.5281/zenodo.23043611](https://doi.org/10.5281/zenodo.23043611)
-
 [View on the ACE-Lab website](https://www.ace-lab.co.uk/practical-exercises#lab-c11) · [← All exercises](../../README.md)
 
 ---

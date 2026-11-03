@@ -24,8 +24,6 @@ Files coming soon.
 Pickering, J. E. (2026). Discrete-Time Low-Pass Filter Design for DC Motor Speed Measurement. ACE-Lab Teaching Notes: ACE-Lab Practical Exercises. Zenodo. https://doi.org/10.5281/zenodo.23244891
 ```
 
-DOI: [10.5281/zenodo.23244891](https://doi.org/10.5281/zenodo.23244891)
-
 [View on the ACE-Lab website](https://www.ace-lab.co.uk/practical-exercises#lab-a13) · [← All exercises](../../README.md)
 
 ---

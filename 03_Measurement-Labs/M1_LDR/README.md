@@ -2,36 +2,35 @@
 
 # M1 · LDR (Light Dependent Resistor)
 
-> **Measurement Labs** · ⏱ 0.5 hour · 🧰 Hardware: ACE-Lab Base + Sense
+**Measurement Labs** · ⏱ 0.5 hour · 🧰 Hardware: ACE-Lab Base + Sense
 
 Measure changing light levels using an LDR and bring the sensor signal into Simulink for analysis.
 
-## Resources
+### ▶️ See it in action
 
-| | |
-|---|---|
-| 📄 Exercise sheet (PDF) | [M1_LDR_Light_Dependent_Resistor.pdf](M1_LDR_Light_Dependent_Resistor.pdf) |
-| 🔖 DOI | [10.5281/zenodo.23885012](https://doi.org/10.5281/zenodo.23885012) |
-| 🌐 Website | [ace-lab.co.uk/practical-exercises](https://www.ace-lab.co.uk/practical-exercises) |
+<a href="https://youtu.be/hreY37M0zvk"><img src="https://img.youtube.com/vi/hreY37M0zvk/hqdefault.jpg" alt="Watch the M1 demo on YouTube" width="420"></a>
 
-## Theory behind this lab (ACE-CORE)
+[Watch on YouTube](https://youtu.be/hreY37M0zvk)
 
-- [O02 Microcontroller-Based Measurement for Control Systems](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/O02_Microcontroller_Based_Measurement.pdf) ([DOI](https://doi.org/10.5281/zenodo.23337635))
+### 📄 Lab guide
 
-## Files
+[Open the M1 lab guide (PDF)](https://uploads.strikinglycdn.com/files/bafbd2d5-916c-49fd-97af-9b6a0516b5b8/LDR_Light_Dependent_Resistor.pdf)
 
-| Folder | Contents |
-|---|---|
-| [`matlab/`](matlab) | MATLAB scripts and live scripts (`.m`, `.mlx`) |
-| [`simulink/`](simulink) | Simulink models (`.slx`) to run on the ACE-Lab hardware |
+### 💾 MATLAB & Simulink files
 
-## Cite this exercise
+[Download the M1 files (R2026a)](https://uploads.strikinglycdn.com/files/d8e31ebf-11fb-4649-a5b1-72717cb6b467/simulink_ldr.zip?t=1790161829&id=4425719)
+
+The same files are also in the [`simulink/`](simulink) folder here.
+
+### 🔖 Cite this exercise
 
 ```
 Pickering, J. E. (2026). LDR (Light Dependent Resistor) Exercise. ACE-Lab Teaching Notes: ACE-Lab Practical Exercises. Zenodo. https://doi.org/10.5281/zenodo.23885012
 ```
 
-[← All exercises](../../README.md)
+DOI: [10.5281/zenodo.23885012](https://doi.org/10.5281/zenodo.23885012)
+
+[View on the ACE-Lab website](https://www.ace-lab.co.uk/practical-exercises#lab-m1) · [← All exercises](../../README.md)
 
 ---
 <p align="center"><b>Visit <a href="https://www.ace-lab.co.uk">www.ace-lab.co.uk</a></b> for the full ACE-Lab learning resources.<br>Developed by Dr James E. Pickering · Harper Adams University &amp; Aston University · Project funding received from MathWorks and EUCA</p>

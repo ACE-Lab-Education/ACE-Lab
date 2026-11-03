@@ -2,37 +2,31 @@
 
 # C1.3 · DC Motor PI Control: Automatic Optimisation
 
-> **DC Motor Control System Labs** · ⏱ 1 hour · 🧰 Hardware: ACE-Lab Base + Sense + Actuate
+**DC Motor Control System Labs** · ⏱ 1 hour · 🧰 Hardware: ACE-Lab Base + Sense + Actuate
 
 Use optimisation to find PI gains that automatically meet defined DC motor speed-control requirements.
 
-## Resources
+### ▶️ See it in action
 
-| | |
-|---|---|
-| 📄 Exercise sheet (PDF) | [C1.3_DC_Motor_PI_Control_Automatic_Optimisation.pdf](C1.3_DC_Motor_PI_Control_Automatic_Optimisation.pdf) |
-| 🔖 DOI | [10.5281/zenodo.23675491](https://doi.org/10.5281/zenodo.23675491) |
-| 🌐 Website | [ace-lab.co.uk/practical-exercises](https://www.ace-lab.co.uk/practical-exercises) |
+Demo video coming soon.
 
-## Theory behind this lab (ACE-CORE)
+### 📄 Lab guide
 
-- [C02 System Response and Requirements](https://www.ace-lab.co.uk/ace-core)
-- [O04 Discrete-Time PID Control](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/O04_Learning_guide_discrete_time_pid_control.pdf) ([DOI](https://doi.org/10.5281/zenodo.23086025))
+[Open the C1.3 lab guide (PDF)](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/05_Control-System-Labs/C1.3_PI-Automatic-Optimisation/C1.3_DC_Motor_PI_Control_Automatic_Optimisation.pdf)
 
-## Files
+### 💾 MATLAB & Simulink files
 
-| Folder | Contents |
-|---|---|
-| [`matlab/`](matlab) | MATLAB scripts and live scripts (`.m`, `.mlx`) |
-| [`simulink/`](simulink) | Simulink models (`.slx`) to run on the ACE-Lab hardware |
+The files for this exercise are in the [`simulink/`](simulink) and [`matlab/`](matlab) folders here.
 
-## Cite this exercise
+### 🔖 Cite this exercise
 
 ```
 Pickering, J. E. (2026). DC Motor PI Control: Automatic Optimisation. ACE-Lab Teaching Notes: ACE-Lab Practical Exercises. Zenodo. https://doi.org/10.5281/zenodo.23675491
 ```
 
-[← All exercises](../../README.md)
+DOI: [10.5281/zenodo.23675491](https://doi.org/10.5281/zenodo.23675491)
+
+[View on the ACE-Lab website](https://www.ace-lab.co.uk/practical-exercises#lab-c13) · [← All exercises](../../README.md)
 
 ---
 <p align="center"><b>Visit <a href="https://www.ace-lab.co.uk">www.ace-lab.co.uk</a></b> for the full ACE-Lab learning resources.<br>Developed by Dr James E. Pickering · Harper Adams University &amp; Aston University · Project funding received from MathWorks and EUCA</p>

@@ -2,36 +2,35 @@
 
 # P3 · On/Off Power Switch
 
-> **Preliminary Labs** · ⏱ 0.5 hour · 🧰 Hardware: ACE-Lab Base + Sense
+**Preliminary Labs** · ⏱ 0.5 hour · 🧰 Hardware: ACE-Lab Base + Sense
 
 Read a simple on/off switch state and use it as a clean digital input within a Simulink model.
 
-## Resources
+### ▶️ See it in action
 
-| | |
-|---|---|
-| 📄 Exercise sheet (PDF) | [P3_On_Off_Power_Switch.pdf](P3_On_Off_Power_Switch.pdf) |
-| 🔖 DOI | [10.5281/zenodo.23884991](https://doi.org/10.5281/zenodo.23884991) |
-| 🌐 Website | [ace-lab.co.uk/practical-exercises](https://www.ace-lab.co.uk/practical-exercises) |
+<a href="https://youtu.be/fT5ouTtOBlw"><img src="https://img.youtube.com/vi/fT5ouTtOBlw/hqdefault.jpg" alt="Watch the P3 demo on YouTube" width="420"></a>
 
-## Theory behind this lab (ACE-CORE)
+[Watch on YouTube](https://youtu.be/fT5ouTtOBlw)
 
-- [O01 Introduction to the ATmega328P Microcontroller (Arduino Uno)](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/O01_Intro_to_ATmega328P_Microcontroller.pdf) ([DOI](https://doi.org/10.5281/zenodo.23326158))
+### 📄 Lab guide
 
-## Files
+[Open the P3 lab guide (PDF)](https://uploads.strikinglycdn.com/files/bafbd2d5-916c-49fd-97af-9b6a0516b5b8/On_Off_Power_Switch.pdf)
 
-| Folder | Contents |
-|---|---|
-| [`matlab/`](matlab) | MATLAB scripts and live scripts (`.m`, `.mlx`) |
-| [`simulink/`](simulink) | Simulink models (`.slx`) to run on the ACE-Lab hardware |
+### 💾 MATLAB & Simulink files
 
-## Cite this exercise
+[Download the P3 files (R2026a)](https://uploads.strikinglycdn.com/files/d8e31ebf-11fb-4649-a5b1-72717cb6b467/Simulink_led_digital_on_off.zip?t=1790161782&id=4425717)
+
+The same files are also in the [`simulink/`](simulink) folder here.
+
+### 🔖 Cite this exercise
 
 ```
 Pickering, J. E. (2026). On/Off Power Switch Exercise. ACE-Lab Teaching Notes: ACE-Lab Practical Exercises. Zenodo. https://doi.org/10.5281/zenodo.23884991
 ```
 
-[← All exercises](../../README.md)
+DOI: [10.5281/zenodo.23884991](https://doi.org/10.5281/zenodo.23884991)
+
+[View on the ACE-Lab website](https://www.ace-lab.co.uk/practical-exercises#lab-p3) · [← All exercises](../../README.md)
 
 ---
 <p align="center"><b>Visit <a href="https://www.ace-lab.co.uk">www.ace-lab.co.uk</a></b> for the full ACE-Lab learning resources.<br>Developed by Dr James E. Pickering · Harper Adams University &amp; Aston University · Project funding received from MathWorks and EUCA</p>

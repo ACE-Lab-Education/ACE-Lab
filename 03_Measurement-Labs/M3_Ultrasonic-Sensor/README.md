@@ -2,36 +2,35 @@
 
 # M3 · Ultrasonic Sensor
 
-> **Measurement Labs** · ⏱ 1 hour · 🧰 Hardware: ACE-Lab Base + Sense
+**Measurement Labs** · ⏱ 1 hour · 🧰 Hardware: ACE-Lab Base + Sense
 
 Measure distance using an ultrasonic sensor and interpret the resulting signal in Simulink.
 
-## Resources
+### ▶️ See it in action
 
-| | |
-|---|---|
-| 📄 Exercise sheet (PDF) | [M3_Ultrasonic_Sensor.pdf](M3_Ultrasonic_Sensor.pdf) |
-| 🔖 DOI | [10.5281/zenodo.23885016](https://doi.org/10.5281/zenodo.23885016) |
-| 🌐 Website | [ace-lab.co.uk/practical-exercises](https://www.ace-lab.co.uk/practical-exercises) |
+<a href="https://youtu.be/7PYc9o42cuw"><img src="https://img.youtube.com/vi/7PYc9o42cuw/hqdefault.jpg" alt="Watch the M3 demo on YouTube" width="420"></a>
 
-## Theory behind this lab (ACE-CORE)
+[Watch on YouTube](https://youtu.be/7PYc9o42cuw)
 
-- [O02 Microcontroller-Based Measurement for Control Systems](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/O02_Microcontroller_Based_Measurement.pdf) ([DOI](https://doi.org/10.5281/zenodo.23337635))
+### 📄 Lab guide
 
-## Files
+[Open the M3 lab guide (PDF)](https://uploads.strikinglycdn.com/files/bafbd2d5-916c-49fd-97af-9b6a0516b5b8/Ultrasonic_Sensor.pdf)
 
-| Folder | Contents |
-|---|---|
-| [`matlab/`](matlab) | MATLAB scripts and live scripts (`.m`, `.mlx`) |
-| [`simulink/`](simulink) | Simulink models (`.slx`) to run on the ACE-Lab hardware |
+### 💾 MATLAB & Simulink files
 
-## Cite this exercise
+[Download the M3 files (R2026a)](https://uploads.strikinglycdn.com/files/d8e31ebf-11fb-4649-a5b1-72717cb6b467/simulink_ultrasonic_sensor.zip?t=1790161875&id=4425721)
+
+The same files are also in the [`simulink/`](simulink) folder here.
+
+### 🔖 Cite this exercise
 
 ```
 Pickering, J. E. (2026). Ultrasonic Sensor Exercise. ACE-Lab Teaching Notes: ACE-Lab Practical Exercises. Zenodo. https://doi.org/10.5281/zenodo.23885016
 ```
 
-[← All exercises](../../README.md)
+DOI: [10.5281/zenodo.23885016](https://doi.org/10.5281/zenodo.23885016)
+
+[View on the ACE-Lab website](https://www.ace-lab.co.uk/practical-exercises#lab-m3) · [← All exercises](../../README.md)
 
 ---
 <p align="center"><b>Visit <a href="https://www.ace-lab.co.uk">www.ace-lab.co.uk</a></b> for the full ACE-Lab learning resources.<br>Developed by Dr James E. Pickering · Harper Adams University &amp; Aston University · Project funding received from MathWorks and EUCA</p>

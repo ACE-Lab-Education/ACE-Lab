@@ -2,36 +2,31 @@
 
 # A1.5 · Online Parameter Estimation of a DC Motor using Recursive Least Squares
 
-> **Actuator Labs** · ⏱ 1 hour · 🧰 Hardware: ACE-Lab Base + Sense + Actuate
+**Actuator Labs** · ⏱ 1 hour · 🧰 Hardware: ACE-Lab Base + Sense + Actuate
 
 Estimate the gain, time constant and dead-band of the motor while it runs, using recursive least squares, and explore the forgetting factor.
 
-## Resources
+### ▶️ See it in action
 
-| | |
-|---|---|
-| 📄 Exercise sheet (PDF) | [A1.5_Online_Parameter_Estimation_of_a_DC_Motor_using_RLS.pdf](A1.5_Online_Parameter_Estimation_of_a_DC_Motor_using_RLS.pdf) |
-| 🔖 DOI | [10.5281/zenodo.23671549](https://doi.org/10.5281/zenodo.23671549) |
-| 🌐 Website | [ace-lab.co.uk/practical-exercises](https://www.ace-lab.co.uk/practical-exercises) |
+Demo video coming soon.
 
-## Theory behind this lab (ACE-CORE)
+### 📄 Lab guide
 
-- [E14 Recursive Least Squares for Online Parameter Estimation](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/E14_Recursive_Least_Squares_for_Online_Parameter_Estimation.pdf) ([DOI](https://doi.org/10.5281/zenodo.23671518))
+[Open the A1.5 lab guide (PDF)](https://uploads.strikinglycdn.com/files/c94eee4b-ae85-425f-8cd2-98ffc6007c15/Online_Parameter_Estimation_of_a_DC_Motor_using_RLS.pdf?t=1793044294&id=4433507)
 
-## Files
+### 💾 MATLAB & Simulink files
 
-| Folder | Contents |
-|---|---|
-| [`matlab/`](matlab) | MATLAB scripts and live scripts (`.m`, `.mlx`) |
-| [`simulink/`](simulink) | Simulink models (`.slx`) to run on the ACE-Lab hardware |
+The files for this exercise are in [`Code_DC-Motor`](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/Code_DC-Motor).
 
-## Cite this exercise
+### 🔖 Cite this exercise
 
 ```
 Pickering, J. E. (2026). Online Parameter Estimation of a DC Motor using Recursive Least Squares. ACE-Lab Teaching Notes: ACE-Lab Practical Exercises. Zenodo. https://doi.org/10.5281/zenodo.23671549
 ```
 
-[← All exercises](../../README.md)
+DOI: [10.5281/zenodo.23671549](https://doi.org/10.5281/zenodo.23671549)
+
+[View on the ACE-Lab website](https://www.ace-lab.co.uk/practical-exercises#lab-a15) · [← All exercises](../../README.md)
 
 ---
 <p align="center"><b>Visit <a href="https://www.ace-lab.co.uk">www.ace-lab.co.uk</a></b> for the full ACE-Lab learning resources.<br>Developed by Dr James E. Pickering · Harper Adams University &amp; Aston University · Project funding received from MathWorks and EUCA</p>

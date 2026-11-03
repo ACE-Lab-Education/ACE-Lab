@@ -2,36 +2,35 @@
 
 # P1 · LED (Digital)
 
-> **Preliminary Labs** · ⏱ 0.5 hour · 🧰 Hardware: ACE-Lab Base + Sense
+**Preliminary Labs** · ⏱ 0.5 hour · 🧰 Hardware: ACE-Lab Base + Sense
 
 Build and deploy a simple Simulink model that switches an LED on and off using an Arduino digital output.
 
-## Resources
+### ▶️ See it in action
 
-| | |
-|---|---|
-| 📄 Exercise sheet (PDF) | [P1_LED_Digital_Exercise.pdf](P1_LED_Digital_Exercise.pdf) |
-| 🔖 DOI | [10.5281/zenodo.23098135](https://doi.org/10.5281/zenodo.23098135) |
-| 🌐 Website | [ace-lab.co.uk/practical-exercises](https://www.ace-lab.co.uk/practical-exercises) |
+<a href="https://youtu.be/NSN8flRu1Vo"><img src="https://img.youtube.com/vi/NSN8flRu1Vo/hqdefault.jpg" alt="Watch the P1 demo on YouTube" width="420"></a>
 
-## Theory behind this lab (ACE-CORE)
+[Watch on YouTube](https://youtu.be/NSN8flRu1Vo)
 
-- [O01 Introduction to the ATmega328P Microcontroller (Arduino Uno)](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/O01_Intro_to_ATmega328P_Microcontroller.pdf) ([DOI](https://doi.org/10.5281/zenodo.23326158))
+### 📄 Lab guide
 
-## Files
+[Open the P1 lab guide (PDF)](https://uploads.strikinglycdn.com/files/5d0314d2-395b-4e8c-8f32-a1905d6da0c0/LED_Digital_Exercise.pdf?t=1791038978&id=4428223)
 
-| Folder | Contents |
-|---|---|
-| [`matlab/`](matlab) | MATLAB scripts and live scripts (`.m`, `.mlx`) |
-| [`simulink/`](simulink) | Simulink models (`.slx`) to run on the ACE-Lab hardware |
+### 💾 MATLAB & Simulink files
 
-## Cite this exercise
+[Download the P1 files (R2026a)](https://uploads.strikinglycdn.com/files/d8e31ebf-11fb-4649-a5b1-72717cb6b467/Simulink_led_digital.7z?t=1790161684&id=4425714)
+
+The same files are also in the [`simulink/`](simulink) folder here.
+
+### 🔖 Cite this exercise
 
 ```
 Pickering, J. E. (2026). LED (Digital) Exercise. ACE-Lab Teaching Notes: ACE-Lab Practical Exercises. Zenodo. https://doi.org/10.5281/zenodo.23098135
 ```
 
-[← All exercises](../../README.md)
+DOI: [10.5281/zenodo.23098135](https://doi.org/10.5281/zenodo.23098135)
+
+[View on the ACE-Lab website](https://www.ace-lab.co.uk/practical-exercises#lab-p1) · [← All exercises](../../README.md)
 
 ---
 <p align="center"><b>Visit <a href="https://www.ace-lab.co.uk">www.ace-lab.co.uk</a></b> for the full ACE-Lab learning resources.<br>Developed by Dr James E. Pickering · Harper Adams University &amp; Aston University · Project funding received from MathWorks and EUCA</p>

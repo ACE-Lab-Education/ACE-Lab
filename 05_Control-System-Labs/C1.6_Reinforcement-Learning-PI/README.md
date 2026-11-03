@@ -24,8 +24,6 @@ The files for this exercise are in [`Code_DC-Motor/RL_PI_Tuner`](https://github.
 Pickering, J. E. (2026). DC Motor PI Tuning using Reinforcement Learning. ACE-Lab Teaching Notes: ACE-Lab Practical Exercises. Zenodo. https://doi.org/10.5281/zenodo.23671556
 ```
 
-DOI: [10.5281/zenodo.23671556](https://doi.org/10.5281/zenodo.23671556)
-
 [View on the ACE-Lab website](https://www.ace-lab.co.uk/practical-exercises#lab-c16) · [← All exercises](../../README.md)
 
 ---

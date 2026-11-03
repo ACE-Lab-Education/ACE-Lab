@@ -2,37 +2,31 @@
 
 # A1.4 · Parameter Estimation of a DC Motor using Linear Least Squares
 
-> **Actuator Labs** · ⏱ 1 hour · 🧰 Hardware: ACE-Lab Base + Sense + Actuate
+**Actuator Labs** · ⏱ 1 hour · 🧰 Hardware: ACE-Lab Base + Sense + Actuate
 
 Log the open-loop step response of the motor and use linear least squares to identify its transfer function, gain and time constant.
 
-## Resources
+### ▶️ See it in action
 
-| | |
-|---|---|
-| 📄 Exercise sheet (PDF) | [A1.4_Parameter_Estimation_of_a_DC_Motor_using_LLS.pdf](A1.4_Parameter_Estimation_of_a_DC_Motor_using_LLS.pdf) |
-| 🔖 DOI | [10.5281/zenodo.23568474](https://doi.org/10.5281/zenodo.23568474) |
-| 🌐 Website | [ace-lab.co.uk/practical-exercises](https://www.ace-lab.co.uk/practical-exercises) |
+Demo video coming soon.
 
-## Theory behind this lab (ACE-CORE)
+### 📄 Lab guide
 
-- [E06 Linear Least Squares for Parameter Estimation](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/E06_Linear_Least_Squares.pdf) ([DOI](https://doi.org/10.5281/zenodo.23568450))
-- [E08 Response Analysis of First-Order Transfer Functions](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/E08_First_Order_Response.pdf) ([DOI](https://doi.org/10.5281/zenodo.23325078))
+[Open the A1.4 lab guide (PDF)](https://uploads.strikinglycdn.com/files/26340468-c044-4cba-8894-6baeb5540789/Parameter_Estimation_of_a_DC_Motor_using_LLS.pdf)
 
-## Files
+### 💾 MATLAB & Simulink files
 
-| Folder | Contents |
-|---|---|
-| [`matlab/`](matlab) | MATLAB scripts and live scripts (`.m`, `.mlx`) |
-| [`simulink/`](simulink) | Simulink models (`.slx`) to run on the ACE-Lab hardware |
+The files for this exercise are in [`Code_DC-Motor`](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/Code_DC-Motor).
 
-## Cite this exercise
+### 🔖 Cite this exercise
 
 ```
 Pickering, J. E. (2026). Parameter Estimation of a DC Motor using Linear Least Squares. ACE-Lab Teaching Notes: ACE-Lab Practical Exercises. Zenodo. https://doi.org/10.5281/zenodo.23568474
 ```
 
-[← All exercises](../../README.md)
+DOI: [10.5281/zenodo.23568474](https://doi.org/10.5281/zenodo.23568474)
+
+[View on the ACE-Lab website](https://www.ace-lab.co.uk/practical-exercises#lab-a14) · [← All exercises](../../README.md)
 
 ---
 <p align="center"><b>Visit <a href="https://www.ace-lab.co.uk">www.ace-lab.co.uk</a></b> for the full ACE-Lab learning resources.<br>Developed by Dr James E. Pickering · Harper Adams University &amp; Aston University · Project funding received from MathWorks and EUCA</p>

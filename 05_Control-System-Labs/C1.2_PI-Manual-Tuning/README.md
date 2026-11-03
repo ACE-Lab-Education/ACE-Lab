@@ -24,8 +24,6 @@ Files coming soon.
 Pickering, J. E. (2026). DC Motor PI Control: Manual Tuning. ACE-Lab Teaching Notes: ACE-Lab Practical Exercises. Zenodo. https://doi.org/10.5281/zenodo.23245132
 ```
 
-DOI: [10.5281/zenodo.23245132](https://doi.org/10.5281/zenodo.23245132)
-
 [View on the ACE-Lab website](https://www.ace-lab.co.uk/practical-exercises#lab-c12) · [← All exercises](../../README.md)
 
 ---

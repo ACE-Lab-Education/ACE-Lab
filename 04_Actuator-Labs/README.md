@@ -10,7 +10,6 @@
 | **A1.3** | [Discrete-Time Low-Pass Filter Design for DC Motor Speed Measurement](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/04_Actuator-Labs/A1.3_Low-Pass-Filter) | 1 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/04_Actuator-Labs/A1.3_Low-Pass-Filter/A1.3_Low_pass_filter_dc_motor.pdf) | [23244891](https://doi.org/10.5281/zenodo.23244891) |
 | **A1.4** | [Parameter Estimation of a DC Motor using Linear Least Squares](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/04_Actuator-Labs/A1.4_LLS-Parameter-Estimation) | 1 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/04_Actuator-Labs/A1.4_LLS-Parameter-Estimation/A1.4_Parameter_Estimation_of_a_DC_Motor_using_LLS.pdf) | [23568474](https://doi.org/10.5281/zenodo.23568474) |
 | **A1.5** | [Online Parameter Estimation of a DC Motor using Recursive Least Squares](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/04_Actuator-Labs/A1.5_RLS-Online-Estimation) | 1 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/04_Actuator-Labs/A1.5_RLS-Online-Estimation/A1.5_Online_Parameter_Estimation_of_a_DC_Motor_using_RLS.pdf) | [23671549](https://doi.org/10.5281/zenodo.23671549) |
-| **A2** | [DC Motor Cooling Fan](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/04_Actuator-Labs/A2_Cooling-Fan) | 1 hour | — | — |
 
 [← All exercises](../README.md)
 

@@ -2,38 +2,33 @@
 
 # C1.1 · DC Motor Speed Control Using a PI Controller
 
-> **DC Motor Control System Labs** · ⏱ 1 hour · 🧰 Hardware: ACE-Lab Base + Sense + Actuate
+**DC Motor Control System Labs** · ⏱ 1 hour · 🧰 Hardware: ACE-Lab Base + Sense + Actuate
 
 Implement closed-loop PI speed control of the DC motor in Simulink and evaluate it against requirements.
 
-## Resources
+### ▶️ See it in action
 
-| | |
-|---|---|
-| 📄 Exercise sheet (PDF) | [C1.1_DC_Motor_Speed_Control_Using_a_PI_Controller.pdf](C1.1_DC_Motor_Speed_Control_Using_a_PI_Controller.pdf) |
-| 🔖 DOI | [10.5281/zenodo.23043611](https://doi.org/10.5281/zenodo.23043611) |
-| 🌐 Website | [ace-lab.co.uk/practical-exercises](https://www.ace-lab.co.uk/practical-exercises) |
+Demo video coming soon.
 
-## Theory behind this lab (ACE-CORE)
+### 📄 Lab guide
 
-- [C02 System Response and Requirements](https://www.ace-lab.co.uk/ace-core)
-- [O04 Discrete-Time PID Control](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/O04_Learning_guide_discrete_time_pid_control.pdf) ([DOI](https://doi.org/10.5281/zenodo.23086025))
-- [O05 Practical Considerations for PID Control](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/O05_Learning_guide_practical_considerations_for_pid_control.pdf) ([DOI](https://doi.org/10.5281/zenodo.23121627))
+[Open the C1.1 lab guide (PDF)](https://uploads.strikinglycdn.com/files/c7bc0d64-e3ae-4d9e-a055-4dc97b743bcc/DC_Motor_Speed_Control_Using_a_PI_Controller.pdf?t=1790708977&id=4427220)
 
-## Files
+### 💾 MATLAB & Simulink files
 
-| Folder | Contents |
-|---|---|
-| [`matlab/`](matlab) | MATLAB scripts and live scripts (`.m`, `.mlx`) |
-| [`simulink/`](simulink) | Simulink models (`.slx`) to run on the ACE-Lab hardware |
+[Download the C1.1 files (R2026a)](https://uploads.strikinglycdn.com/files/c7bc0d64-e3ae-4d9e-a055-4dc97b743bcc/dc_motor_speed_pi_control.zip?t=1790709197&id=4427223)
 
-## Cite this exercise
+The same files are also in the [`simulink/`](simulink) folder here.
+
+### 🔖 Cite this exercise
 
 ```
 Pickering, J. E. (2026). DC Motor Speed Control Using a PI Controller. ACE-Lab Teaching Notes: ACE-Lab Practical Exercises. Zenodo. https://doi.org/10.5281/zenodo.23043611
 ```
 
-[← All exercises](../../README.md)
+DOI: [10.5281/zenodo.23043611](https://doi.org/10.5281/zenodo.23043611)
+
+[View on the ACE-Lab website](https://www.ace-lab.co.uk/practical-exercises#lab-c11) · [← All exercises](../../README.md)
 
 ---
 <p align="center"><b>Visit <a href="https://www.ace-lab.co.uk">www.ace-lab.co.uk</a></b> for the full ACE-Lab learning resources.<br>Developed by Dr James E. Pickering · Harper Adams University &amp; Aston University · Project funding received from MathWorks and EUCA</p>

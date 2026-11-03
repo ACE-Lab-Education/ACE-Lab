@@ -24,8 +24,6 @@ The files for this exercise are in the [`simulink/`](simulink) and [`matlab/`](m
 Pickering, J. E. (2026). DC Motor PI Control: Automatic Optimisation. ACE-Lab Teaching Notes: ACE-Lab Practical Exercises. Zenodo. https://doi.org/10.5281/zenodo.23675491
 ```
 
-DOI: [10.5281/zenodo.23675491](https://doi.org/10.5281/zenodo.23675491)
-
 [View on the ACE-Lab website](https://www.ace-lab.co.uk/practical-exercises#lab-c13) · [← All exercises](../../README.md)
 
 ---

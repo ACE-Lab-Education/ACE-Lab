@@ -2,37 +2,31 @@
 
 # C1.5 · DC Motor Self-Tuning PI Control using Recursive Least Squares
 
-> **DC Motor Control System Labs** · ⏱ 1 hour · 🧰 Hardware: ACE-Lab Base + Sense + Actuate
+**DC Motor Control System Labs** · ⏱ 1 hour · 🧰 Hardware: ACE-Lab Base + Sense + Actuate
 
 Run a self-tuning PI controller that re-identifies the motor and re-tunes its gains automatically when the load changes.
 
-## Resources
+### ▶️ See it in action
 
-| | |
-|---|---|
-| 📄 Exercise sheet (PDF) | [C1.5_DC_Motor_Self_Tuning_PI_Control_using_RLS.pdf](C1.5_DC_Motor_Self_Tuning_PI_Control_using_RLS.pdf) |
-| 🔖 DOI | [10.5281/zenodo.23671554](https://doi.org/10.5281/zenodo.23671554) |
-| 🌐 Website | [ace-lab.co.uk/practical-exercises](https://www.ace-lab.co.uk/practical-exercises) |
+Demo video coming soon.
 
-## Theory behind this lab (ACE-CORE)
+### 📄 Lab guide
 
-- [E14 Recursive Least Squares for Online Parameter Estimation](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/E14_Recursive_Least_Squares_for_Online_Parameter_Estimation.pdf) ([DOI](https://doi.org/10.5281/zenodo.23671518))
-- [E16 Adaptive Control: the Self-Tuning PI Controller](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-3_Online-Control-Methods/E16_Adaptive_Control_the_Self_Tuning_PI_Controller.pdf) ([DOI](https://doi.org/10.5281/zenodo.23671545))
+[Open the C1.5 lab guide (PDF)](https://uploads.strikinglycdn.com/files/1e1e05bc-9e88-4186-836e-000e74a2a90d/DC_Motor_Self_Tuning_PI_Control_using_RLS.pdf?t=1793044300&id=4433509)
 
-## Files
+### 💾 MATLAB & Simulink files
 
-| Folder | Contents |
-|---|---|
-| [`matlab/`](matlab) | MATLAB scripts and live scripts (`.m`, `.mlx`) |
-| [`simulink/`](simulink) | Simulink models (`.slx`) to run on the ACE-Lab hardware |
+The files for this exercise are in [`Code_DC-Motor/SelfTuningPI`](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/Code_DC-Motor/SelfTuningPI).
 
-## Cite this exercise
+### 🔖 Cite this exercise
 
 ```
 Pickering, J. E. (2026). DC Motor Self-Tuning PI Control using Recursive Least Squares. ACE-Lab Teaching Notes: ACE-Lab Practical Exercises. Zenodo. https://doi.org/10.5281/zenodo.23671554
 ```
 
-[← All exercises](../../README.md)
+DOI: [10.5281/zenodo.23671554](https://doi.org/10.5281/zenodo.23671554)
+
+[View on the ACE-Lab website](https://www.ace-lab.co.uk/practical-exercises#lab-c15) · [← All exercises](../../README.md)
 
 ---
 <p align="center"><b>Visit <a href="https://www.ace-lab.co.uk">www.ace-lab.co.uk</a></b> for the full ACE-Lab learning resources.<br>Developed by Dr James E. Pickering · Harper Adams University &amp; Aston University · Project funding received from MathWorks and EUCA</p>

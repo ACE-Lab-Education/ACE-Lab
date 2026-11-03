@@ -2,37 +2,31 @@
 
 # A1.3 · Discrete-Time Low-Pass Filter Design for DC Motor Speed Measurement
 
-> **Actuator Labs** · ⏱ 1 hour · 🧰 Hardware: ACE-Lab Base + Sense + Actuate
+**Actuator Labs** · ⏱ 1 hour · 🧰 Hardware: ACE-Lab Base + Sense + Actuate
 
 Design a first-order discrete-time low-pass filter to smooth noisy motor speed, balancing smoothing against delay.
 
-## Resources
+### ▶️ See it in action
 
-| | |
-|---|---|
-| 📄 Exercise sheet (PDF) | [A1.3_Low_pass_filter_dc_motor.pdf](A1.3_Low_pass_filter_dc_motor.pdf) |
-| 🔖 DOI | [10.5281/zenodo.23244891](https://doi.org/10.5281/zenodo.23244891) |
-| 🌐 Website | [ace-lab.co.uk/practical-exercises](https://www.ace-lab.co.uk/practical-exercises) |
+Demo video coming soon.
 
-## Theory behind this lab (ACE-CORE)
+### 📄 Lab guide
 
-- [R01 Discrete-Time Low-Pass Filter Design](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-1_Practical-Control-Engineering/R01_Learning_guide_discrete_time_low_pass_filter_design.pdf) ([DOI](https://doi.org/10.5281/zenodo.23217095))
-- [E05 Discrete-Time Modelling](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/ACE-CORE/Level-2_Model-Based-Design/E05_Discrete_Time_Modelling.pdf) ([DOI](https://doi.org/10.5281/zenodo.23325170))
+[Open the A1.3 lab guide (PDF)](https://uploads.strikinglycdn.com/files/a1e3d096-73de-4c21-95a5-e6a42baff69c/Low_pass_filter_dc_motor.pdf?t=1791536638&id=4429612)
 
-## Files
+### 💾 MATLAB & Simulink files
 
-| Folder | Contents |
-|---|---|
-| [`matlab/`](matlab) | MATLAB scripts and live scripts (`.m`, `.mlx`) |
-| [`simulink/`](simulink) | Simulink models (`.slx`) to run on the ACE-Lab hardware |
+Files coming soon.
 
-## Cite this exercise
+### 🔖 Cite this exercise
 
 ```
 Pickering, J. E. (2026). Discrete-Time Low-Pass Filter Design for DC Motor Speed Measurement. ACE-Lab Teaching Notes: ACE-Lab Practical Exercises. Zenodo. https://doi.org/10.5281/zenodo.23244891
 ```
 
-[← All exercises](../../README.md)
+DOI: [10.5281/zenodo.23244891](https://doi.org/10.5281/zenodo.23244891)
+
+[View on the ACE-Lab website](https://www.ace-lab.co.uk/practical-exercises#lab-a13) · [← All exercises](../../README.md)
 
 ---
 <p align="center"><b>Visit <a href="https://www.ace-lab.co.uk">www.ace-lab.co.uk</a></b> for the full ACE-Lab learning resources.<br>Developed by Dr James E. Pickering · Harper Adams University &amp; Aston University · Project funding received from MathWorks and EUCA</p>

@@ -28,8 +28,6 @@ The same files are also in the [`simulink/`](simulink) folder here.
 Pickering, J. E. (2026). Tactile Button Switch Exercise. ACE-Lab Teaching Notes: ACE-Lab Practical Exercises. Zenodo. https://doi.org/10.5281/zenodo.23885010
 ```
 
-DOI: [10.5281/zenodo.23885010](https://doi.org/10.5281/zenodo.23885010)
-
 [View on the ACE-Lab website](https://www.ace-lab.co.uk/practical-exercises#lab-p4) · [← All exercises](../../README.md)
 
 ---

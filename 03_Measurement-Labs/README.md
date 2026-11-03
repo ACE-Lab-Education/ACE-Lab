@@ -3,12 +3,12 @@
 # Measurement Labs
 *Hardware: ACE-Lab Base + Sense*
 
-| Code | Exercise | Time | Sheet | DOI |
-|---|---|---|---|---|
-| **M1** | [LDR (Light Dependent Resistor)](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/03_Measurement-Labs/M1_LDR) | 0.5 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/03_Measurement-Labs/M1_LDR/M1_LDR_Light_Dependent_Resistor.pdf) | [23885012](https://doi.org/10.5281/zenodo.23885012) |
-| **M2** | [Slide Potentiometer](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/03_Measurement-Labs/M2_Slide-Potentiometer) | 0.5 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/03_Measurement-Labs/M2_Slide-Potentiometer/M2_Slide_Potentiometer.pdf) | [23885014](https://doi.org/10.5281/zenodo.23885014) |
-| **M3** | [Ultrasonic Sensor](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/03_Measurement-Labs/M3_Ultrasonic-Sensor) | 1 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/03_Measurement-Labs/M3_Ultrasonic-Sensor/M3_Ultrasonic_Sensor.pdf) | [23885016](https://doi.org/10.5281/zenodo.23885016) |
-| **M4** | [Temperature Sensor](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/03_Measurement-Labs/M4_Temperature-Sensor) | 1 hour | [PDF](https://github.com/ACE-Lab-Education/ACE-Lab/blob/main/03_Measurement-Labs/M4_Temperature-Sensor/M4_Temperature_Sensor.pdf) | [23885018](https://doi.org/10.5281/zenodo.23885018) |
+| Code | Exercise | Time | Sheet |
+|---|---|---|---|
+| **M1** | [LDR (Light Dependent Resistor)](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/03_Measurement-Labs/M1_LDR) | 0.5 hour | [PDF](https://uploads.strikinglycdn.com/files/bafbd2d5-916c-49fd-97af-9b6a0516b5b8/LDR_Light_Dependent_Resistor.pdf) |
+| **M2** | [Slide Potentiometer](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/03_Measurement-Labs/M2_Slide-Potentiometer) | 0.5 hour | [PDF](https://uploads.strikinglycdn.com/files/bafbd2d5-916c-49fd-97af-9b6a0516b5b8/Slide_Potentiometer.pdf) |
+| **M3** | [Ultrasonic Sensor](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/03_Measurement-Labs/M3_Ultrasonic-Sensor) | 1 hour | [PDF](https://uploads.strikinglycdn.com/files/bafbd2d5-916c-49fd-97af-9b6a0516b5b8/Ultrasonic_Sensor.pdf) |
+| **M4** | [Temperature Sensor](https://github.com/ACE-Lab-Education/ACE-Lab/tree/main/03_Measurement-Labs/M4_Temperature-Sensor) | 1 hour | [PDF](https://uploads.strikinglycdn.com/files/bafbd2d5-916c-49fd-97af-9b6a0516b5b8/Temperature_Sensor.pdf) |
 
 [← All exercises](../README.md)
 
